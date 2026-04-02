@@ -1,6 +1,6 @@
 === 最新 ===
 Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
-2026-04-03 06:48 | 655.78 | 429.64 | 209.67 | 296.00 | 23.87 | 93.14 | 37.85 | 146.95 | 79.57 | 109.05 | 112.06 | 100.00 | 159.55 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.6% | +7.2% | +16bp | 2.02% | 1.93%
+2026-04-04 06:48 | 655.78 | 429.64 | 209.67 | 296.00 | 23.87 | 93.14 | 37.85 | 146.95 | 79.57 | 109.05 | 112.06 | 100.00 | 159.55 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.6% | +7.2% | +16bp | 2.02% | 1.93%
 
 === 履歴 ===
 Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
