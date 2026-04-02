@@ -1,7 +1,7 @@
-=== Market Snapshot 2026-04-03 04:12 JST ===
+=== Market Snapshot 2026-04-03 04:17 JST ===
 
-SPY: 654.65 | GLD: 428.89 | AMZN: 209.19 | GOOGL: 295.49
-VIX: 25.06 | OVX: 94.31 | GVZ: 38.47 | SKEW: 143.77 | HYG: 79.42
-Brent: 108.07 | WTI: 110.80 | DXY: 100.01 | USDJPY: 159.58 | DFII10: 2.00%
+SPY: 654.75 | GLD: 429.35 | AMZN: 209.14 | GOOGL: 295.38
+VIX: 24.97 | OVX: 94.01 | GVZ: 38.37 | SKEW: 143.77 | HYG: 79.45
+Brent: 108.15 | WTI: 111.02 | DXY: 100.00 | USDJPY: 159.59 | DFII10: 2.00%
 
 Source: MarketData.app + yfinance + FRED
