@@ -1,204 +1,23 @@
-=== Latest Snapshot ===
-=== Market Snapshot 2026-04-03 05:17 JST ===
+=== 最新 ===
+Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+2026-04-03 05:20 | 655.67 | 429.39 | 209.77 | 295.65 | 24.09 | 93.14 | 37.85 | 143.77 | 79.56 | 108.76 | 111.66 | 100.03 | 159.58 | 2.02% | 10.74 | 13.91 | -3.35 | 400.64 | 7.2% | +7.2% | +16bp | 2.02% | 1.93%
 
-[Prices]
-SPY: 655.74 | GLD: 429.54 | AMZN: 209.77 | GOOGL: 295.61
+=== 履歴 ===
+Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+2026-04-03 05:17 | 655.74 | 429.54 | 209.77 | 295.61 | 24.09 | 93.14 | 37.85 | 143.77 | 79.54 | 108.59 | 111.56 | 100.04 | 159.58 | 2.02% | 10.74 | 13.91 | -3.35 | 400.64 | 7.2% | +7.2% | +16bp | 2.02% | 1.93%
+2026-04-03 05:17 | 655.74 | 429.54 | N/A | N/A | 24.09 | 93.14 | N/A | N/A | 79.54 | N/A | N/A | N/A | N/A | 2.02% | 10.74 | 13.91 | -3.35 | N/A | 7.2% | +7.2% | N/A | N/A | N/A
+2026-04-03 05:17 | 655.83 | 429.44 | N/A | N/A | 24.07 | 93.14 | N/A | N/A | 79.54 | N/A | N/A | N/A | N/A | 2.02% | 10.74 | 13.91 | -3.37 | N/A | 7.2% | +7.2% | N/A | N/A | N/A
+2026-04-03 05:12 | 655.74 | 429.23 | N/A | N/A | 24.22 | 92.41 | N/A | N/A | 79.53 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -3.22 | N/A | 7.1% | +7.2% | N/A | N/A | N/A
+2026-04-03 05:07 | 655.28 | 429.26 | N/A | N/A | 24.34 | 92.49 | N/A | N/A | 79.50 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -3.10 | N/A | 7.1% | +7.2% | N/A | N/A | N/A
+2026-04-03 05:02 | 654.42 | 428.81 | N/A | N/A | 24.73 | 92.47 | N/A | N/A | 79.45 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -2.71 | N/A | 7.0% | +7.2% | N/A | N/A | N/A
+2026-04-03 04:57 | 654.78 | 428.75 | N/A | N/A | 24.70 | 92.45 | N/A | N/A | 79.48 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -2.73 | N/A | 7.0% | +7.1% | N/A | N/A | N/A
+2026-04-03 04:56 | 654.78 | 428.76 | N/A | N/A | 24.73 | 92.45 | N/A | N/A | 79.49 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -2.71 | N/A | 7.0% | +7.2% | N/A | N/A | N/A
+2026-04-03 | 654.50 | 428.31 | N/A | N/A | 24.75 | 92.45 | N/A | N/A | 79.47 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -2.69 | N/A | 6.9% | +7.2% | N/A | N/A | N/A
+2026-04-03 | 654.38 | 428.63 | N/A | N/A | 24.84 | 92.79 | N/A | N/A | 79.45 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -2.60 | N/A | 7.0% | +7.1% | N/A | N/A | N/A
+2026-04-03 | 654.34 | 428.60 | N/A | N/A | 24.95 | 92.87 | N/A | N/A | 79.44 | N/A | N/A | N/A | N/A | 2.00% | 10.74 | 13.91 | -2.49 | N/A | 7.0% | +7.0% | N/A | N/A | N/A
 
-[Risk / Vol]
-VIX: 24.09 | OVX: 93.14 | GVZ: 37.85 | SKEW: 143.77 | HYG: 79.54
-
-[Macro]
-Brent: 108.59 | WTI: 111.56 | DXY: 100.04 | USDJPY: 159.58 | DFII10: 2.02%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -3.35
-GLD 20d low: 400.64 | bounce: 7.2% | ret_5d: +7.2%
-DFII10 10d chg: +16bp | 10DMA: 2.02% | 20DMA: 1.93%
-
-Source: MarketData.app + yfinance + FRED
-
-=== Recent History (latest first) ===
-Timestamp JST     | SPY    | GLD    | VIX   | OVX   | HYG   | DFII10 | SPY_ATR | GLD_ATR | VIX_5dchg | bounce | ret_5d
-2026-04-03 05:17 | 655.74 | 429.54 | 24.09 | 93.14 | 79.54 |  2.02% |   10.74 |   13.91 |      -3.35 |   7.2% |  +7.2%
-2026-04-03 05:17 | 655.83 | 429.44 | 24.07 | 93.14 | 79.54 |  2.02% |   10.74 |   13.91 |      -3.37 |   7.2% |  +7.2%
-2026-04-03 05:12 | 655.74 | 429.23 | 24.22 | 92.41 | 79.53 |  2.00% |   10.74 |   13.91 |      -3.22 |   7.1% |  +7.2%
-2026-04-03 05:07 | 655.28 | 429.26 | 24.34 | 92.49 | 79.50 |  2.00% |   10.74 |   13.91 |      -3.10 |   7.1% |  +7.2%
-2026-04-03 05:02 | 654.42 | 428.81 | 24.73 | 92.47 | 79.45 |  2.00% |   10.74 |   13.91 |      -2.71 |   7.0% |  +7.2%
-2026-04-03 04:57 | 654.78 | 428.75 | 24.70 | 92.45 | 79.48 |  2.00% |   10.74 |   13.91 |      -2.73 |   7.0% |  +7.1%
-2026-04-03 04:56 | 654.78 | 428.76 | 24.73 | 92.45 | 79.49 |  2.00% |   10.74 |   13.91 |      -2.71 |   7.0% |  +7.2%
-2026-04-03 | 654.50 | 428.31 | 24.75 | 92.45 | 79.47 |  2.00% |   10.74 |   13.91 |     -2.69 |   6.9% |  +7.2%
-2026-04-03 | 654.38 | 428.63 | 24.84 | 92.79 | 79.45 |  2.00% |   10.74 |   13.91 |     -2.60 |   7.0% |  +7.1%
-2026-04-03 | 654.34 | 428.60 | 24.95 | 92.87 | 79.44 |  2.00% |   10.74 |   13.91 |     -2.49 |   7.0% |  +7.0%
-
-=== Full Snapshot Archive (latest first, max 12) ===
----- 2026-04-03 05:17 JST ----
-=== Market Snapshot 2026-04-03 05:17 JST ===
-
-[Prices]
-SPY: 655.83 | GLD: 429.44 | AMZN: 209.40 | GOOGL: 295.65
-
-[Risk / Vol]
-VIX: 24.07 | OVX: 93.14 | GVZ: 37.85 | SKEW: 143.77 | HYG: 79.54
-
-[Macro]
-Brent: 108.59 | WTI: 111.56 | DXY: 100.04 | USDJPY: 159.57 | DFII10: 2.02%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -3.37
-GLD 20d low: 400.64 | bounce: 7.2% | ret_5d: +7.2%
-DFII10 10d chg: +16bp | 10DMA: 2.02% | 20DMA: 1.93%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 05:12 JST ----
-=== Market Snapshot 2026-04-03 05:12 JST ===
-
-[Prices]
-SPY: 655.74 | GLD: 429.23 | AMZN: 209.73 | GOOGL: 295.69
-
-[Risk / Vol]
-VIX: 24.22 | OVX: 92.41 | GVZ: 37.89 | SKEW: 143.77 | HYG: 79.53
-
-[Macro]
-Brent: 108.43 | WTI: 111.40 | DXY: 100.04 | USDJPY: 159.60 | DFII10: 2.00%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -3.22
-GLD 20d low: 400.64 | bounce: 7.1% | ret_5d: +7.2%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 05:07 JST ----
-=== Market Snapshot 2026-04-03 05:07 JST ===
-
-[Prices]
-SPY: 655.28 | GLD: 429.26 | AMZN: 209.46 | GOOGL: 295.63
-
-[Risk / Vol]
-VIX: 24.34 | OVX: 92.49 | GVZ: 37.96 | SKEW: 143.77 | HYG: 79.50
-
-[Macro]
-Brent: 108.41 | WTI: 111.32 | DXY: 100.04 | USDJPY: 159.63 | DFII10: 2.00%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -3.10
-GLD 20d low: 400.64 | bounce: 7.1% | ret_5d: +7.2%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 05:02 JST ----
-=== Market Snapshot 2026-04-03 05:02 JST ===
-
-[Prices]
-SPY: 654.42 | GLD: 428.81 | AMZN: 209.07 | GOOGL: 295.13
-
-[Risk / Vol]
-VIX: 24.73 | OVX: 92.47 | GVZ: 37.99 | SKEW: 143.77 | HYG: 79.45
-
-[Macro]
-Brent: 108.66 | WTI: 111.56 | DXY: 100.03 | USDJPY: 159.64 | DFII10: 2.00%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -2.71
-GLD 20d low: 400.64 | bounce: 7.0% | ret_5d: +7.2%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 04:57 JST ----
-=== Market Snapshot 2026-04-03 04:57 JST ===
-
-[Prices]
-SPY: 654.78 | GLD: 428.75 | AMZN: 209.19 | GOOGL: 295.18
-
-[Risk / Vol]
-VIX: 24.70 | OVX: 92.45 | GVZ: 38.07 | SKEW: 143.77 | HYG: 79.48
-
-[Macro]
-Brent: 108.54 | WTI: 111.37 | DXY: 100.03 | USDJPY: 159.67 | DFII10: 2.00%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -2.73
-GLD 20d low: 400.64 | bounce: 7.0% | ret_5d: +7.1%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 04:56 JST ----
-=== Market Snapshot 2026-04-03 04:56 JST ===
-
-[Prices]
-SPY: 654.78 | GLD: 428.76 | AMZN: 209.21 | GOOGL: 294.94
-
-[Risk / Vol]
-VIX: 24.73 | OVX: 92.45 | GVZ: 38.04 | SKEW: 143.77 | HYG: 79.49
-
-[Macro]
-Brent: 108.66 | WTI: 111.46 | DXY: 100.02 | USDJPY: 159.65 | DFII10: 2.00%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -2.71
-GLD 20d low: 400.64 | bounce: 7.0% | ret_5d: +7.2%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 04:52 JST ----
-=== Market Snapshot 2026-04-03 04:52 JST ===
-
-SPY: 654.50 | GLD: 428.31 | AMZN: 209.19 | GOOGL: 295.03
-VIX: 24.75 | OVX: 92.45 | GVZ: 38.05 | SKEW: 143.77 | HYG: 79.47
-Brent: 108.54 | WTI: 111.32 | DXY: 100.01 | USDJPY: 159.63 | DFII10: 2.00%
-
---- Derived ---
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -2.69
-GLD 20d low: 400.64 | bounce: 6.9% | ret_5d: +7.2%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 04:47 JST ----
-=== Market Snapshot 2026-04-03 04:47 JST ===
-
-SPY: 654.38 | GLD: 428.63 | AMZN: 209.23 | GOOGL: 295.03
-VIX: 24.84 | OVX: 92.79 | GVZ: 38.05 | SKEW: 143.77 | HYG: 79.45
-Brent: 108.83 | WTI: 111.71 | DXY: 100.01 | USDJPY: 159.60 | DFII10: 2.00%
-
---- Derived ---
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -2.6
-GLD 20d low: 400.64 | bounce: 7.0% | ret_5d: +7.1%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 04:44 JST ----
-=== Market Snapshot 2026-04-03 04:44 JST ===
-
-SPY: 654.34 | GLD: 428.60 | AMZN: 209.12 | GOOGL: 294.90
-VIX: 24.95 | OVX: 92.87 | GVZ: 38.03 | SKEW: 143.77 | HYG: 79.44
-Brent: 108.63 | WTI: 111.59 | DXY: 100.01 | USDJPY: 159.60 | DFII10: 2.00%
-
---- Derived ---
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -2.49
-GLD 20d low: 400.64 | bounce: 7.0% | ret_5d: +7.0%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
-
-Source: MarketData.app + yfinance + FRED
----- 2026-04-03 04:42 JST ----
-=== Market Snapshot 2026-04-03 04:42 JST ===
-
-SPY: 654.42 | GLD: 429.18 | AMZN: 208.99 | GOOGL: 294.87
-VIX: 24.94 | OVX: 92.80 | GVZ: 38.10 | SKEW: 143.77 | HYG: 79.44
-Brent: 108.66 | WTI: 111.56 | DXY: 100.00 | USDJPY: 159.59 | DFII10: 2.00%
-
---- Derived ---
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -2.5
-GLD 20d low: 400.64 | bounce: 7.1%
-DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
+=== 履歴（日） ===
+Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+(empty)
 
 Source: MarketData.app + yfinance + FRED
