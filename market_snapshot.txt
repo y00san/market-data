@@ -1,23 +1,14 @@
-=== Latest Snapshot ===
-=== Market Snapshot 2026-04-03 06:39 JST ===
+=== 最新 ===
+Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+2026-04-03 06:41 | 655.85 | 429.63 | 209.65 | 296.00 | 23.87 | 93.14 | 37.85 | 146.95 | 79.57 | 109.05 | 112.06 | 100.01 | 159.55 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.6% | +7.2% | +16bp | 2.02% | 1.93%
 
-[Prices]
-SPY: 655.80 | GLD: 429.80 | AMZN: 209.64 | GOOGL: 295.95
+=== 履歴 ===
+Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+2026-04-03 06:39 | 655.80 | 429.80 | 209.64 | 295.95 | 23.87 | 93.14 | 37.85 | 146.95 | 79.57 | 109.05 | 112.06 | 100.00 | 159.55 | 2.02% | 10.74 | 13.91 | -3.57 | 400.64 | 7.3% | +7.2% | +16bp | 2.02% | 1.93%
+2026-04-03 06:39 | 655.80 | 429.80 | N/A | N/A | 23.87 | 93.14 | N/A | N/A | 79.57 | N/A | N/A | N/A | N/A | 2.02% | 10.74 | 13.91 | -3.57 | N/A | 7.3% | +7.2% | N/A | N/A | N/A
 
-[Risk / Vol]
-VIX: 23.87 | OVX: 93.14 | GVZ: 37.85 | SKEW: 146.95 | HYG: 79.57
-
-[Macro]
-Brent: 109.05 | WTI: 112.06 | DXY: 100.00 | USDJPY: 159.55 | DFII10: 2.02%
-
-[Derived]
-SPY ATR14: 10.74 | GLD ATR14: 13.91
-VIX 5d ago: 27.44 | 5d chg: -3.57
-GLD 20d low: 400.64 | bounce: 7.3% | ret_5d: +7.2%
-DFII10 10d chg: +16bp | 10DMA: 2.02% | 20DMA: 1.93%
+=== 履歴（日） ===
+Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+(empty)
 
 Source: MarketData.app + yfinance + FRED
-
-=== Recent History (latest first) ===
-Timestamp JST     | SPY    | GLD    | VIX   | OVX   | HYG   | DFII10 | SPY_ATR | GLD_ATR | VIX_5dchg | bounce | ret_5d
-2026-04-03 06:39 | 655.80 | 429.80 | 23.87 | 93.14 | 79.57 |  2.02% |   10.74 |   13.91 |      -3.57 |   7.3% |  +7.2%
