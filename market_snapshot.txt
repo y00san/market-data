@@ -1,8 +1,24 @@
 === History (latest first) ===
 Date       | SPY    | GLD    | VIX   | OVX   | HYG   | DFII10 | SPY_ATR | GLD_ATR | VIX_5dchg | bounce | ret_5d
+2026-04-03 | 654.38 | 428.63 | 24.84 | 92.79 | 79.45 |  2.00% |   10.74 |   13.91 |     -2.60 |   7.0% |  +7.1%
 2026-04-03 | 654.34 | 428.60 | 24.95 | 92.87 | 79.44 |  2.00% |   10.74 |   13.91 |     -2.49 |   7.0% |  +7.0%
 
-=== Latest Full Snapshot 2026-04-03 04:44 JST ===
+=== Latest Full Snapshot 2026-04-03 04:47 JST ===
+=== Market Snapshot 2026-04-03 04:47 JST ===
+
+SPY: 654.38 | GLD: 428.63 | AMZN: 209.23 | GOOGL: 295.03
+VIX: 24.84 | OVX: 92.79 | GVZ: 38.05 | SKEW: 143.77 | HYG: 79.45
+Brent: 108.83 | WTI: 111.71 | DXY: 100.01 | USDJPY: 159.60 | DFII10: 2.00%
+
+--- Derived ---
+SPY ATR14: 10.74 | GLD ATR14: 13.91
+VIX 5d ago: 27.44 | 5d chg: -2.6
+GLD 20d low: 400.64 | bounce: 7.0% | ret_5d: +7.1%
+DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
+
+Source: MarketData.app + yfinance + FRED
+
+=== Past Snapshots ===
 === Market Snapshot 2026-04-03 04:44 JST ===
 
 SPY: 654.34 | GLD: 428.60 | AMZN: 209.12 | GOOGL: 294.90
@@ -17,7 +33,6 @@ DFII10 10d chg: +17bp | 10DMA: 2.01% | 20DMA: 1.92%
 
 Source: MarketData.app + yfinance + FRED
 
-=== Past Snapshots ===
 === Market Snapshot 2026-04-03 04:42 JST ===
 
 SPY: 654.42 | GLD: 429.18 | AMZN: 208.99 | GOOGL: 294.87
