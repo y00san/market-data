@@ -1,9 +1,10 @@
 === 最新 ===
 Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
-2026-04-03 06:17 | 655.79 | 429.70 | 209.81 | 296.20 | 23.87 | 93.14 | 37.85 | 146.95 | 79.56 | 109.05 | 112.06 | 100.00 | 159.52 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.6% | +7.2% | +16bp | 2.02% | 1.93%
+2026-04-03 06:22 | 655.75 | 429.60 | 209.74 | 296.39 | 23.87 | 93.14 | 37.85 | 146.95 | 79.56 | 109.05 | 112.06 | 100.01 | 159.52 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.6% | +7.2% | +16bp | 2.02% | 1.93%
 
 === 履歴 ===
 Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+2026-04-03 06:17 | 655.79 | 429.70 | 209.81 | 296.20 | 23.87 | 93.14 | 37.85 | 146.95 | 79.56 | 109.05 | 112.06 | 100.00 | 159.52 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.6% | +7.2% | +16bp | 2.02% | 1.93%
 2026-04-03 06:12 | 655.72 | 429.10 | 209.76 | 296.18 | 23.87 | 93.14 | 37.85 | 143.77 | 79.56 | 109.05 | 112.06 | 100.01 | 159.56 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.5% | +7.2% | +16bp | 2.02% | 1.93%
 2026-04-03 06:07 | 655.87 | 429.11 | 209.73 | 296.01 | 23.87 | 93.14 | 37.85 | 143.77 | 79.56 | 109.00 | 111.91 | 100.01 | 159.57 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.5% | +7.2% | +16bp | 2.02% | 1.93%
 2026-04-03 06:02 | 655.97 | 429.00 | 209.69 | 296.18 | 23.87 | 93.14 | 37.85 | 143.77 | 79.56 | 108.80 | 111.82 | 100.01 | 159.60 | 2.02% | 10.74 | 13.91 | -3.57 | 399.20 | 7.5% | +7.2% | +16bp | 2.02% | 1.93%
@@ -31,6 +32,7 @@ Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent 
 
 === 履歴（日） ===
 Timestamp JST | SPY | GLD | AMZN | GOOGL | VIX | OVX | GVZ | SKEW | HYG | Brent | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | VIX_5dchg | GLD_20d_low | bounce | ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
+Source: MarketData.app + yfinance + FRED
 Source: MarketData.app + yfinance + FRED
 Source: MarketData.app + yfinance + FRED
 Source: MarketData.app + yfinance + FRED
