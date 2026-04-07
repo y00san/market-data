@@ -1,0 +1,45 @@
+{
+  "asof_jst": "2026-04-08 04:45:35",
+  "items": [
+    {
+      "symbol": "SPY",
+      "underlying_price": 656.73,
+      "asof_jst": "2026-04-08 04:45:18",
+      "expiry_count": 1,
+      "path": "oc/SPY.json",
+      "error": ""
+    },
+    {
+      "symbol": "QQQ",
+      "underlying_price": 585.47,
+      "asof_jst": "2026-04-08 04:45:22",
+      "expiry_count": 1,
+      "path": "oc/QQQ.json",
+      "error": ""
+    },
+    {
+      "symbol": "GLD",
+      "underlying_price": 430.47,
+      "asof_jst": "2026-04-08 04:45:26",
+      "expiry_count": 1,
+      "path": "oc/GLD.json",
+      "error": ""
+    },
+    {
+      "symbol": "AMZN",
+      "underlying_price": 212.86,
+      "asof_jst": "2026-04-08 04:45:30",
+      "expiry_count": 1,
+      "path": "oc/AMZN.json",
+      "error": ""
+    },
+    {
+      "symbol": "GOOGL",
+      "underlying_price": 303.33,
+      "asof_jst": "2026-04-08 04:45:32",
+      "expiry_count": 1,
+      "path": "oc/GOOGL.json",
+      "error": ""
+    }
+  ]
+}
