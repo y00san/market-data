@@ -1,42 +1,42 @@
 {
-  "asof_jst": "2026-04-08 04:45:35",
+  "asof_jst": "2026-04-08 04:55:39",
   "items": [
     {
       "symbol": "SPY",
-      "underlying_price": 656.73,
-      "asof_jst": "2026-04-08 04:45:18",
+      "underlying_price": 658.67,
+      "asof_jst": "2026-04-08 04:55:23",
       "expiry_count": 1,
       "path": "oc/SPY.json",
       "error": ""
     },
     {
       "symbol": "QQQ",
-      "underlying_price": 585.47,
-      "asof_jst": "2026-04-08 04:45:22",
+      "underlying_price": 588.09,
+      "asof_jst": "2026-04-08 04:55:27",
       "expiry_count": 1,
       "path": "oc/QQQ.json",
       "error": ""
     },
     {
       "symbol": "GLD",
-      "underlying_price": 430.47,
-      "asof_jst": "2026-04-08 04:45:26",
+      "underlying_price": 431.73,
+      "asof_jst": "2026-04-08 04:55:31",
       "expiry_count": 1,
       "path": "oc/GLD.json",
       "error": ""
     },
     {
       "symbol": "AMZN",
-      "underlying_price": 212.86,
-      "asof_jst": "2026-04-08 04:45:30",
+      "underlying_price": 213.53,
+      "asof_jst": "2026-04-08 04:55:34",
       "expiry_count": 1,
       "path": "oc/AMZN.json",
       "error": ""
     },
     {
       "symbol": "GOOGL",
-      "underlying_price": 303.33,
-      "asof_jst": "2026-04-08 04:45:32",
+      "underlying_price": 304.66,
+      "asof_jst": "2026-04-08 04:55:36",
       "expiry_count": 1,
       "path": "oc/GOOGL.json",
       "error": ""
