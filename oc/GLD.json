@@ -1,7 +1,7 @@
 {
   "symbol": "GLD",
   "underlying": "US.GLD",
-  "asof_jst": "2026-04-09 10:50:29",
+  "asof_jst": "2026-04-09 11:00:32",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "yfinance"
@@ -23,7 +23,7 @@
       "dte": 36,
       "is_monthly": true,
       "underlying_price": 434.53,
-      "fetch_time": "2026-04-09T10:50:29",
+      "fetch_time": "2026-04-09T11:00:32",
       "error": "",
       "calls": [
         {
