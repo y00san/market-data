@@ -1,7 +1,7 @@
 {
   "symbol": "SPY",
   "underlying": "US.SPY",
-  "asof_jst": "2026-04-10 05:26:58",
+  "asof_jst": "2026-04-10 05:31:58",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "yfinance"
@@ -12,7 +12,7 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 679.86,
+  "underlying_price": 679.91,
   "underlying_change_pct": 0.76,
   "error": "",
   "expiries": [
@@ -22,8 +22,8 @@
       "expiry": "2026-05-15",
       "dte": 35,
       "is_monthly": true,
-      "underlying_price": 679.86,
-      "fetch_time": "2026-04-10T05:26:58",
+      "underlying_price": 679.91,
+      "fetch_time": "2026-04-10T05:31:58",
       "error": "",
       "calls": [
         {
@@ -1087,7 +1087,7 @@
       "dte": 70,
       "is_monthly": true,
       "underlying_price": 0.0,
-      "fetch_time": "2026-04-10T05:26:59",
+      "fetch_time": "2026-04-10T05:31:59",
       "error": "チェーン取得失敗: US.SPY 2026-06-19",
       "calls": [],
       "puts": []
