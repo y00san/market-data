@@ -1,7 +1,7 @@
 {
   "symbol": "GLD",
   "underlying": "US.GLD",
-  "asof_jst": "2026-04-09 11:00:32",
+  "asof_jst": "2026-04-09 11:03:41",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "yfinance"
@@ -23,7 +23,7 @@
       "dte": 36,
       "is_monthly": true,
       "underlying_price": 434.53,
-      "fetch_time": "2026-04-09T11:00:32",
+      "fetch_time": "2026-04-09T11:03:41",
       "error": "",
       "calls": [
         {
@@ -1079,6 +1079,18 @@
           "mid": 52.175
         }
       ]
+    },
+    {
+      "symbol": "GLD",
+      "underlying": "US.GLD",
+      "expiry": "2026-06-19",
+      "dte": 71,
+      "is_monthly": true,
+      "underlying_price": 0.0,
+      "fetch_time": "2026-04-09T11:03:42",
+      "error": "チェーン取得失敗: US.GLD 2026-06-19",
+      "calls": [],
+      "puts": []
     }
   ]
 }
