@@ -1,12 +1,12 @@
 {
-  "asof_jst": "2026-04-09 10:24:29",
+  "asof_jst": "2026-04-09 11:03:49",
   "inline": true,
   "items": [
     {
       "symbol": "SPY",
       "underlying_price": 676.01,
-      "asof_jst": "2026-04-09 10:24:13",
-      "expiry_count": 1,
+      "asof_jst": "2026-04-09 11:03:33",
+      "expiry_count": 2,
       "path": "oc/SPY.json",
       "error": "",
       "expiries": [
@@ -17,7 +17,7 @@
           "dte": 36,
           "is_monthly": true,
           "underlying_price": 676.01,
-          "fetch_time": "2026-04-09T10:24:13",
+          "fetch_time": "2026-04-09T11:03:33",
           "error": "",
           "calls": [
             {
@@ -1073,14 +1073,26 @@
               "mid": 17.93
             }
           ]
+        },
+        {
+          "symbol": "SPY",
+          "underlying": "US.SPY",
+          "expiry": "2026-06-19",
+          "dte": 71,
+          "is_monthly": true,
+          "underlying_price": 0.0,
+          "fetch_time": "2026-04-09T11:03:35",
+          "error": "チェーン取得失敗: US.SPY 2026-06-19",
+          "calls": [],
+          "puts": []
         }
       ]
     },
     {
       "symbol": "QQQ",
       "underlying_price": 606.09,
-      "asof_jst": "2026-04-09 10:24:17",
-      "expiry_count": 1,
+      "asof_jst": "2026-04-09 11:03:37",
+      "expiry_count": 2,
       "path": "oc/QQQ.json",
       "error": "",
       "expiries": [
@@ -1091,7 +1103,7 @@
           "dte": 36,
           "is_monthly": true,
           "underlying_price": 606.09,
-          "fetch_time": "2026-04-09T10:24:17",
+          "fetch_time": "2026-04-09T11:03:37",
           "error": "",
           "calls": [
             {
@@ -2147,14 +2159,26 @@
               "mid": 20.345
             }
           ]
+        },
+        {
+          "symbol": "QQQ",
+          "underlying": "US.QQQ",
+          "expiry": "2026-06-19",
+          "dte": 71,
+          "is_monthly": true,
+          "underlying_price": 0.0,
+          "fetch_time": "2026-04-09T11:03:39",
+          "error": "チェーン取得失敗: US.QQQ 2026-06-19",
+          "calls": [],
+          "puts": []
         }
       ]
     },
     {
       "symbol": "GLD",
       "underlying_price": 434.53,
-      "asof_jst": "2026-04-09 10:24:21",
-      "expiry_count": 1,
+      "asof_jst": "2026-04-09 11:03:41",
+      "expiry_count": 2,
       "path": "oc/GLD.json",
       "error": "",
       "expiries": [
@@ -2165,7 +2189,7 @@
           "dte": 36,
           "is_monthly": true,
           "underlying_price": 434.53,
-          "fetch_time": "2026-04-09T10:24:21",
+          "fetch_time": "2026-04-09T11:03:41",
           "error": "",
           "calls": [
             {
@@ -3221,14 +3245,26 @@
               "mid": 52.175
             }
           ]
+        },
+        {
+          "symbol": "GLD",
+          "underlying": "US.GLD",
+          "expiry": "2026-06-19",
+          "dte": 71,
+          "is_monthly": true,
+          "underlying_price": 0.0,
+          "fetch_time": "2026-04-09T11:03:42",
+          "error": "チェーン取得失敗: US.GLD 2026-06-19",
+          "calls": [],
+          "puts": []
         }
       ]
     },
     {
       "symbol": "AMZN",
       "underlying_price": 221.25,
-      "asof_jst": "2026-04-09 10:24:24",
-      "expiry_count": 1,
+      "asof_jst": "2026-04-09 11:03:44",
+      "expiry_count": 2,
       "path": "oc/AMZN.json",
       "error": "",
       "expiries": [
@@ -3239,7 +3275,7 @@
           "dte": 36,
           "is_monthly": true,
           "underlying_price": 221.25,
-          "fetch_time": "2026-04-09T10:24:24",
+          "fetch_time": "2026-04-09T11:03:44",
           "error": "",
           "calls": [
             {
@@ -4295,14 +4331,26 @@
               "mid": 49.0
             }
           ]
+        },
+        {
+          "symbol": "AMZN",
+          "underlying": "US.AMZN",
+          "expiry": "2026-06-19",
+          "dte": 71,
+          "is_monthly": true,
+          "underlying_price": 0.0,
+          "fetch_time": "2026-04-09T11:03:45",
+          "error": "チェーン取得失敗: US.AMZN 2026-06-19",
+          "calls": [],
+          "puts": []
         }
       ]
     },
     {
       "symbol": "GOOGL",
       "underlying_price": 317.32,
-      "asof_jst": "2026-04-09 10:24:27",
-      "expiry_count": 1,
+      "asof_jst": "2026-04-09 11:03:47",
+      "expiry_count": 2,
       "path": "oc/GOOGL.json",
       "error": "",
       "expiries": [
@@ -4313,7 +4361,7 @@
           "dte": 36,
           "is_monthly": true,
           "underlying_price": 317.32,
-          "fetch_time": "2026-04-09T10:24:27",
+          "fetch_time": "2026-04-09T11:03:47",
           "error": "",
           "calls": [
             {
@@ -5369,6 +5417,18 @@
               "mid": 48.625
             }
           ]
+        },
+        {
+          "symbol": "GOOGL",
+          "underlying": "US.GOOGL",
+          "expiry": "2026-06-19",
+          "dte": 71,
+          "is_monthly": true,
+          "underlying_price": 0.0,
+          "fetch_time": "2026-04-09T11:03:48",
+          "error": "チェーン取得失敗: US.GOOGL 2026-06-19",
+          "calls": [],
+          "puts": []
         }
       ]
     }
