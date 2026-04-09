@@ -1,7 +1,7 @@
 {
   "symbol": "GOOGL",
   "underlying": "US.GOOGL",
-  "asof_jst": "2026-04-10 05:27:13",
+  "asof_jst": "2026-04-10 05:32:13",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "yfinance"
@@ -23,7 +23,7 @@
       "dte": 35,
       "is_monthly": true,
       "underlying_price": 318.49,
-      "fetch_time": "2026-04-10T05:27:13",
+      "fetch_time": "2026-04-10T05:32:13",
       "error": "",
       "calls": [
         {
@@ -1087,7 +1087,7 @@
       "dte": 70,
       "is_monthly": true,
       "underlying_price": 0.0,
-      "fetch_time": "2026-04-10T05:27:14",
+      "fetch_time": "2026-04-10T05:32:14",
       "error": "チェーン取得失敗: US.GOOGL 2026-06-19",
       "calls": [],
       "puts": []
