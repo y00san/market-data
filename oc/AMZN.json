@@ -1,7 +1,7 @@
 {
   "symbol": "AMZN",
   "underlying": "US.AMZN",
-  "asof_jst": "2026-04-10 05:27:10",
+  "asof_jst": "2026-04-10 05:32:11",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "yfinance"
@@ -23,7 +23,7 @@
       "dte": 35,
       "is_monthly": true,
       "underlying_price": 233.65,
-      "fetch_time": "2026-04-10T05:27:10",
+      "fetch_time": "2026-04-10T05:32:11",
       "error": "",
       "calls": [
         {
@@ -1087,7 +1087,7 @@
       "dte": 70,
       "is_monthly": true,
       "underlying_price": 0.0,
-      "fetch_time": "2026-04-10T05:27:10",
+      "fetch_time": "2026-04-10T05:32:11",
       "error": "チェーン取得失敗: US.AMZN 2026-06-19",
       "calls": [],
       "puts": []
