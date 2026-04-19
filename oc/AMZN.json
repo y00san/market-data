@@ -1,7 +1,7 @@
 {
   "symbol": "AMZN",
   "underlying": "US.AMZN",
-  "asof_jst": "2026-04-19 12:56:02",
+  "asof_jst": "2026-04-19 13:01:13",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 60,
       "is_monthly": true,
       "underlying_price": 250.56,
-      "fetch_time": "2026-04-19T12:56:02",
+      "fetch_time": "2026-04-19T13:01:13",
       "error": "",
       "calls": [
         {
@@ -46,7 +46,7 @@
           "vega": 0.156590702,
           "theta": -0.073976738,
           "rho": 0.292834452,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 53.6
@@ -71,7 +71,7 @@
           "vega": 0.176642587,
           "theta": -0.07862814,
           "rho": 0.294491497,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 48.925
@@ -96,7 +96,7 @@
           "vega": 0.207507577,
           "theta": -0.088498125,
           "rho": 0.29141337,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 44.6
@@ -121,7 +121,7 @@
           "vega": 0.235086876,
           "theta": -0.095474585,
           "rho": 0.288502757,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 40.225
@@ -146,7 +146,7 @@
           "vega": 0.264051787,
           "theta": -0.102332807,
           "rho": 0.2836296,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 35.975
@@ -171,7 +171,7 @@
           "vega": 0.294689562,
           "theta": -0.109741927,
           "rho": 0.275920477,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 31.95
@@ -196,7 +196,7 @@
           "vega": 0.324482089,
           "theta": -0.116531937,
           "rho": 0.265851843,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 28.125
@@ -221,7 +221,7 @@
           "vega": 0.352033736,
           "theta": -0.122525543,
           "rho": 0.253308319,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 24.55
@@ -246,7 +246,7 @@
           "vega": 0.375304747,
           "theta": -0.126606928,
           "rho": 0.238876078,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 21.175
@@ -271,7 +271,7 @@
           "vega": 0.39323344,
           "theta": -0.129606514,
           "rho": 0.222207458,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 18.15
@@ -296,7 +296,7 @@
           "vega": 0.404228742,
           "theta": -0.131073051,
           "rho": 0.204081719,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 15.475
@@ -321,7 +321,7 @@
           "vega": 0.407619463,
           "theta": -0.129848552,
           "rho": 0.185280928,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 13.025
@@ -346,7 +346,7 @@
           "vega": 0.403361073,
           "theta": -0.126840096,
           "rho": 0.166187685,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 10.9
@@ -371,7 +371,7 @@
           "vega": 0.391948877,
           "theta": -0.121920158,
           "rho": 0.147354407,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 9.05
@@ -396,7 +396,7 @@
           "vega": 0.374414684,
           "theta": -0.115557949,
           "rho": 0.129297208,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 7.475
@@ -421,7 +421,7 @@
           "vega": 0.352135922,
           "theta": -0.108130128,
           "rho": 0.112418021,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 6.15
@@ -446,7 +446,7 @@
           "vega": 0.326290017,
           "theta": -0.099743612,
           "rho": 0.096819892,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 5.025
@@ -471,7 +471,7 @@
           "vega": 0.298596188,
           "theta": -0.091094958,
           "rho": 0.082827069,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 4.1
@@ -496,7 +496,7 @@
           "vega": 0.269851109,
           "theta": -0.082169092,
           "rho": 0.07028392,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 3.325
@@ -521,7 +521,7 @@
           "vega": 0.241847013,
           "theta": -0.073714698,
           "rho": 0.059464516,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 2.705
@@ -546,7 +546,7 @@
           "vega": 0.215205608,
           "theta": -0.065773189,
           "rho": 0.050184754,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 2.205
@@ -573,7 +573,7 @@
           "vega": 0.153028463,
           "theta": -0.052409836,
           "rho": -0.032255701,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 1.745
@@ -598,7 +598,7 @@
           "vega": 0.177473615,
           "theta": -0.059030749,
           "rho": -0.039528289,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 2.155
@@ -623,7 +623,7 @@
           "vega": 0.203694823,
           "theta": -0.065645406,
           "rho": -0.048005141,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 2.64
@@ -648,7 +648,7 @@
           "vega": 0.232951068,
           "theta": -0.073065933,
           "rho": -0.058454369,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 3.275
@@ -673,7 +673,7 @@
           "vega": 0.262990741,
           "theta": -0.080082398,
           "rho": -0.070415912,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 4.025
@@ -698,7 +698,7 @@
           "vega": 0.293366374,
           "theta": -0.086644979,
           "rho": -0.084127379,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 4.925
@@ -723,7 +723,7 @@
           "vega": 0.324441471,
           "theta": -0.09406335,
           "rho": -0.100641627,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 6.15
@@ -748,7 +748,7 @@
           "vega": 0.35198771,
           "theta": -0.099522428,
           "rho": -0.118245961,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 7.525
@@ -773,7 +773,7 @@
           "vega": 0.375486583,
           "theta": -0.103767242,
           "rho": -0.137334138,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 9.175
@@ -798,7 +798,7 @@
           "vega": 0.393227442,
           "theta": -0.106651568,
           "rho": -0.157433012,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 11.15
@@ -823,7 +823,7 @@
           "vega": 0.403780718,
           "theta": -0.107571628,
           "rho": -0.177653227,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 13.425
@@ -848,7 +848,7 @@
           "vega": 0.406505172,
           "theta": -0.108050936,
           "rho": -0.197410016,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 16.2
@@ -873,7 +873,7 @@
           "vega": 0.401285243,
           "theta": -0.103862234,
           "rho": -0.215298123,
-          "dte": 61,
+          "dte": 60,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 18.95
@@ -898,7 +898,7 @@
           "vega": 0.389219941,
           "theta": -0.100199696,
           "rho": -0.231073961,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 22.25
@@ -923,7 +923,7 @@
           "vega": 0.37217912,
           "theta": -0.096133701,
           "rho": -0.244019589,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 25.9
@@ -948,7 +948,7 @@
           "vega": 0.348458638,
           "theta": -0.088044683,
           "rho": -0.253312803,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 29.5
@@ -973,7 +973,7 @@
           "vega": 0.317554255,
           "theta": -0.077069424,
           "rho": -0.257500731,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 33.175
@@ -998,7 +998,7 @@
           "vega": 0.287479229,
           "theta": -0.068750055,
           "rho": -0.257865817,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 37.3
@@ -1023,7 +1023,7 @@
           "vega": 0.260819343,
           "theta": -0.062691216,
           "rho": -0.255995426,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 41.725
@@ -1048,7 +1048,7 @@
           "vega": 0.227128794,
           "theta": -0.053186838,
           "rho": -0.246110188,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 46.075
@@ -1073,7 +1073,7 @@
           "vega": 0.192246109,
           "theta": -0.043678455,
           "rho": -0.229591421,
-          "dte": 61,
+          "dte": 60,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 50.55
@@ -1087,7 +1087,7 @@
       "dte": 89,
       "is_monthly": true,
       "underlying_price": 250.56,
-      "fetch_time": "2026-04-19T12:56:03",
+      "fetch_time": "2026-04-19T13:01:13",
       "error": "",
       "calls": [
         {
@@ -1110,7 +1110,7 @@
           "vega": 0.218992331,
           "theta": -0.065887956,
           "rho": 0.418794368,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 54.925
@@ -1135,7 +1135,7 @@
           "vega": 0.250134635,
           "theta": -0.071912184,
           "rho": 0.416850629,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 50.575
@@ -1160,7 +1160,7 @@
           "vega": 0.284017537,
           "theta": -0.078558811,
           "rho": 0.411987829,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 46.4
@@ -1185,7 +1185,7 @@
           "vega": 0.315093633,
           "theta": -0.083527948,
           "rho": 0.406937759,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 42.2
@@ -1210,7 +1210,7 @@
           "vega": 0.346934816,
           "theta": -0.088404925,
           "rho": 0.399293521,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 38.15
@@ -1235,7 +1235,7 @@
           "vega": 0.378578841,
           "theta": -0.093034296,
           "rho": 0.388915393,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 34.275
@@ -1260,7 +1260,7 @@
           "vega": 0.408253676,
           "theta": -0.096724183,
           "rho": 0.37641679,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 30.525
@@ -1285,7 +1285,7 @@
           "vega": 0.4361256,
           "theta": -0.100504099,
           "rho": 0.360309374,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 27.1
@@ -1310,7 +1310,7 @@
           "vega": 0.459641434,
           "theta": -0.103184594,
           "rho": 0.342107967,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 23.875
@@ -1335,7 +1335,7 @@
           "vega": 0.477910397,
           "theta": -0.104988162,
           "rho": 0.321761057,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 20.925
@@ -1360,7 +1360,7 @@
           "vega": 0.489954523,
           "theta": -0.105336468,
           "rho": 0.300036158,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 18.175
@@ -1385,7 +1385,7 @@
           "vega": 0.495267936,
           "theta": -0.10513613,
           "rho": 0.277076497,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 15.8
@@ -1410,7 +1410,7 @@
           "vega": 0.493768951,
           "theta": -0.103326815,
           "rho": 0.25377284,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 13.6
@@ -1435,7 +1435,7 @@
           "vega": 0.485716259,
           "theta": -0.100444064,
           "rho": 0.230477457,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 11.65
@@ -1460,7 +1460,7 @@
           "vega": 0.471673206,
           "theta": -0.096537697,
           "rho": 0.207618926,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 9.925
@@ -1485,7 +1485,7 @@
           "vega": 0.452533517,
           "theta": -0.091870188,
           "rho": 0.185649848,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 8.425
@@ -1510,7 +1510,7 @@
           "vega": 0.429567968,
           "theta": -0.08678195,
           "rho": 0.165060431,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 7.15
@@ -1535,7 +1535,7 @@
           "vega": 0.403682468,
           "theta": -0.081251586,
           "rho": 0.145899464,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 6.05
@@ -1560,7 +1560,7 @@
           "vega": 0.375762118,
           "theta": -0.075395191,
           "rho": 0.128216441,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 5.1
@@ -1585,7 +1585,7 @@
           "vega": 0.346454666,
           "theta": -0.069278124,
           "rho": 0.111948683,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 4.275
@@ -1610,7 +1610,7 @@
           "vega": 0.316863353,
           "theta": -0.063198196,
           "rho": 0.097275742,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 3.575
@@ -1637,7 +1637,7 @@
           "vega": 0.219620962,
           "theta": -0.046628165,
           "rho": -0.059743718,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 2.605
@@ -1662,7 +1662,7 @@
           "vega": 0.248255855,
           "theta": -0.051218681,
           "rho": -0.071055324,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 3.125
@@ -1687,7 +1687,7 @@
           "vega": 0.279459967,
           "theta": -0.056187031,
           "rho": -0.084509418,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 3.775
@@ -1712,7 +1712,7 @@
           "vega": 0.311892348,
           "theta": -0.061121363,
           "rho": -0.09990497,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 4.55
@@ -1737,7 +1737,7 @@
           "vega": 0.344493634,
           "theta": -0.065711782,
           "rho": -0.117115869,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 5.45
@@ -1762,7 +1762,7 @@
           "vega": 0.377167554,
           "theta": -0.07024661,
           "rho": -0.136701397,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 6.55
@@ -1787,7 +1787,7 @@
           "vega": 0.408196523,
           "theta": -0.074313445,
           "rho": -0.15826284,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 7.85
@@ -1812,7 +1812,7 @@
           "vega": 0.436224798,
           "theta": -0.07773002,
           "rho": -0.181540206,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 9.375
@@ -1837,7 +1837,7 @@
           "vega": 0.459814084,
           "theta": -0.080192269,
           "rho": -0.205987902,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 11.125
@@ -1862,7 +1862,7 @@
           "vega": 0.477827079,
           "theta": -0.081615226,
           "rho": -0.231117895,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 13.125
@@ -1887,7 +1887,7 @@
           "vega": 0.489290239,
           "theta": -0.081974834,
           "rho": -0.256271451,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 15.4
@@ -1912,7 +1912,7 @@
           "vega": 0.493605147,
           "theta": -0.082449358,
           "rho": -0.28100154,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 18.175
@@ -1937,7 +1937,7 @@
           "vega": 0.490353466,
           "theta": -0.078474158,
           "rho": -0.303042602,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 20.625
@@ -1962,7 +1962,7 @@
           "vega": 0.480947413,
           "theta": -0.077446058,
           "rho": -0.32349036,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 24.025
@@ -1987,7 +1987,7 @@
           "vega": 0.465753178,
           "theta": -0.07467908,
           "rho": -0.340550975,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 27.5
@@ -2012,7 +2012,7 @@
           "vega": 0.441417498,
           "theta": -0.067721174,
           "rho": -0.35260143,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 30.7
@@ -2037,7 +2037,7 @@
           "vega": 0.418428038,
           "theta": -0.064669431,
           "rho": -0.362060614,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 34.725
@@ -2062,7 +2062,7 @@
           "vega": 0.390071634,
           "theta": -0.05956768,
           "rho": -0.366177562,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": true,
           "mid": 38.7
@@ -2087,7 +2087,7 @@
           "vega": 0.355229453,
           "theta": -0.052634724,
           "rho": -0.362942235,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": false,
           "mid": 42.675
@@ -2112,7 +2112,7 @@
           "vega": 0.323876788,
           "theta": -0.047608006,
           "rho": -0.357135928,
-          "dte": 90,
+          "dte": 89,
           "is_wide": false,
           "is_thin_oi": true,
           "mid": 47.0
@@ -2137,7 +2137,7 @@
           "vega": 0.288086412,
           "theta": -0.041454458,
           "rho": -0.343349264,
-          "dte": 90,
+          "dte": 89,
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 51.35
