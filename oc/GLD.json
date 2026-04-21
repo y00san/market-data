@@ -1,7 +1,7 @@
 {
   "symbol": "GLD",
   "underlying": "US.GLD",
-  "asof_jst": "2026-04-22 01:54:07",
+  "asof_jst": "2026-04-22 01:59:04",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "yfinance"
@@ -12,8 +12,8 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 432.46,
-  "underlying_change_pct": -2.3,
+  "underlying_price": 432.53,
+  "underlying_change_pct": -2.29,
   "error": "",
   "expiries": [
     {
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 57,
       "is_monthly": true,
-      "underlying_price": 432.46,
-      "fetch_time": "2026-04-22T01:54:07",
+      "underlying_price": 432.53,
+      "fetch_time": "2026-04-22T01:59:04",
       "error": "",
       "calls": [],
       "puts": []
@@ -34,8 +34,8 @@
       "expiry": "2026-07-17",
       "dte": 86,
       "is_monthly": true,
-      "underlying_price": 432.46,
-      "fetch_time": "2026-04-22T01:54:07",
+      "underlying_price": 432.53,
+      "fetch_time": "2026-04-22T01:59:04",
       "error": "",
       "calls": [],
       "puts": []
