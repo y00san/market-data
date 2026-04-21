@@ -1,7 +1,7 @@
 {
   "symbol": "QQQ",
   "underlying": "US.QQQ",
-  "asof_jst": "2026-04-22 01:54:03",
+  "asof_jst": "2026-04-22 01:59:01",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "yfinance"
@@ -12,8 +12,8 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 645.67,
-  "underlying_change_pct": -0.35,
+  "underlying_price": 645.16,
+  "underlying_change_pct": -0.43,
   "error": "",
   "expiries": [
     {
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 57,
       "is_monthly": true,
-      "underlying_price": 645.67,
-      "fetch_time": "2026-04-22T01:54:03",
+      "underlying_price": 645.16,
+      "fetch_time": "2026-04-22T01:59:01",
       "error": "",
       "calls": [],
       "puts": []
@@ -34,8 +34,8 @@
       "expiry": "2026-07-17",
       "dte": 86,
       "is_monthly": true,
-      "underlying_price": 645.67,
-      "fetch_time": "2026-04-22T01:54:04",
+      "underlying_price": 645.16,
+      "fetch_time": "2026-04-22T01:59:01",
       "error": "",
       "calls": [],
       "puts": []
