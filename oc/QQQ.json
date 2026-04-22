@@ -1,10 +1,10 @@
 {
   "symbol": "QQQ",
   "underlying": "US.QQQ",
-  "asof_jst": "2026-04-22 02:59:02",
+  "asof_jst": "2026-04-23 02:21:22",
   "source": {
     "chain": "moomoo OpenD",
-    "underlying": "yfinance"
+    "underlying": "moomoo_opend"
   },
   "filters": {
     "min_dte": 30,
@@ -12,19 +12,19 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 645.61,
-  "underlying_change_pct": -0.36,
+  "underlying_price": 653.83,
+  "underlying_change_pct": 1.47,
   "error": "",
   "expiries": [
     {
       "symbol": "QQQ",
       "underlying": "US.QQQ",
       "expiry": "2026-06-18",
-      "dte": 57,
+      "dte": 56,
       "is_monthly": true,
-      "underlying_price": 645.61,
-      "fetch_time": "2026-04-22T02:59:02",
-      "error": "",
+      "underlying_price": 0.0,
+      "fetch_time": "2026-04-23T02:21:22",
+      "error": "チェーン取得失敗: PacketErr.Timeout",
       "calls": [],
       "puts": []
     },
@@ -32,11 +32,11 @@
       "symbol": "QQQ",
       "underlying": "US.QQQ",
       "expiry": "2026-07-17",
-      "dte": 86,
+      "dte": 85,
       "is_monthly": true,
-      "underlying_price": 645.61,
-      "fetch_time": "2026-04-22T02:59:02",
-      "error": "",
+      "underlying_price": 0.0,
+      "fetch_time": "2026-04-23T02:21:35",
+      "error": "チェーン取得失敗: PacketErr.Timeout",
       "calls": [],
       "puts": []
     }
