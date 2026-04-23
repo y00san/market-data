@@ -1,10 +1,10 @@
 {
   "symbol": "GOOGL",
   "underlying": "US.GOOGL",
-  "asof_jst": "2026-04-24 05:04:07",
+  "asof_jst": "2026-04-24 05:09:11",
   "source": {
     "chain": "moomoo OpenD",
-    "underlying": "yfinance"
+    "underlying": "moomoo_opend"
   },
   "filters": {
     "min_dte": 30,
@@ -13,7 +13,7 @@
     "strikes_each_side": 10
   },
   "underlying_price": 338.89,
-  "underlying_change_pct": 0.15,
+  "underlying_change_pct": -0.13,
   "error": "",
   "expiries": [
     {
@@ -23,7 +23,7 @@
       "dte": 55,
       "is_monthly": true,
       "underlying_price": 338.89,
-      "fetch_time": "2026-04-24T05:04:07",
+      "fetch_time": "2026-04-24T05:09:11",
       "error": "",
       "calls": [
         {
@@ -1087,7 +1087,7 @@
       "dte": 84,
       "is_monthly": true,
       "underlying_price": 338.89,
-      "fetch_time": "2026-04-24T05:04:26",
+      "fetch_time": "2026-04-24T05:09:27",
       "error": "",
       "calls": [
         {
