@@ -1,7 +1,7 @@
 {
   "symbol": "AMZN",
   "underlying": "US.AMZN",
-  "asof_jst": "2026-04-24 05:24:06",
+  "asof_jst": "2026-04-24 05:29:06",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -12,7 +12,7 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 255.09,
+  "underlying_price": 255.08,
   "underlying_change_pct": -0.11,
   "error": "",
   "expiries": [
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 55,
       "is_monthly": true,
-      "underlying_price": 255.09,
-      "fetch_time": "2026-04-24T05:24:06",
+      "underlying_price": 255.08,
+      "fetch_time": "2026-04-24T05:29:06",
       "error": "",
       "calls": [
         {
@@ -1086,8 +1086,8 @@
       "expiry": "2026-07-17",
       "dte": 84,
       "is_monthly": true,
-      "underlying_price": 255.09,
-      "fetch_time": "2026-04-24T05:24:07",
+      "underlying_price": 255.08,
+      "fetch_time": "2026-04-24T05:29:06",
       "error": "",
       "calls": [
         {
