@@ -1,7 +1,7 @@
 {
   "symbol": "BA",
   "underlying": "US.BA",
-  "asof_jst": "2026-04-25 03:52:24",
+  "asof_jst": "2026-04-25 03:52:32",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 54,
       "is_monthly": true,
       "underlying_price": 232.75,
-      "fetch_time": "2026-04-25T03:52:24",
+      "fetch_time": "2026-04-25T03:52:32",
       "error": "",
       "calls": [
         {
@@ -383,12 +383,12 @@
           "option_type": "C",
           "strike": 255.0,
           "expiry": "2026-06-18",
-          "last_price": 4.37,
+          "last_price": 4.26,
           "bid": 4.15,
-          "ask": 4.35,
-          "spread": 0.2,
-          "spread_pct": 4.71,
-          "volume": 113,
+          "ask": 4.4,
+          "spread": 0.25,
+          "spread_pct": 5.85,
+          "volume": 115,
           "open_interest": 3030,
           "iv": 0.31566,
           "delta": 0.26146541,
@@ -399,7 +399,7 @@
           "dte": 55,
           "is_wide": true,
           "is_thin_oi": false,
-          "mid": 4.25
+          "mid": 4.275
         },
         {
           "code": "US.BA260618C260000",
@@ -937,9 +937,9 @@
           "expiry": "2026-06-18",
           "last_price": 28.6365,
           "bid": 27.65,
-          "ask": 30.0,
-          "spread": 2.35,
-          "spread_pct": 8.15,
+          "ask": 29.7,
+          "spread": 2.05,
+          "spread_pct": 7.15,
           "volume": 0,
           "open_interest": 65,
           "iv": 0.29324,
@@ -951,7 +951,7 @@
           "dte": 55,
           "is_wide": true,
           "is_thin_oi": true,
-          "mid": 28.825
+          "mid": 28.675
         },
         {
           "code": "US.BA260618P265000",
@@ -1087,7 +1087,7 @@
       "dte": 83,
       "is_monthly": true,
       "underlying_price": 232.75,
-      "fetch_time": "2026-04-25T03:52:25",
+      "fetch_time": "2026-04-25T03:53:03",
       "error": "",
       "calls": [
         {
@@ -1124,9 +1124,9 @@
           "expiry": "2026-07-17",
           "last_price": 47.59,
           "bid": 45.65,
-          "ask": 48.7,
-          "spread": 3.05,
-          "spread_pct": 6.47,
+          "ask": 47.45,
+          "spread": 1.8,
+          "spread_pct": 3.87,
           "volume": 4,
           "open_interest": 295,
           "iv": 0.40451,
@@ -1138,7 +1138,7 @@
           "dte": 84,
           "is_wide": true,
           "is_thin_oi": false,
-          "mid": 47.175
+          "mid": 46.55
         },
         {
           "code": "US.BA260717C195000",
@@ -1925,10 +1925,10 @@
           "strike": 245.0,
           "expiry": "2026-07-17",
           "last_price": 20.34,
-          "bid": 20.1,
+          "bid": 20.15,
           "ask": 20.65,
-          "spread": 0.55,
-          "spread_pct": 2.7,
+          "spread": 0.5,
+          "spread_pct": 2.45,
           "volume": 1,
           "open_interest": 5,
           "iv": 0.31875,
@@ -1940,7 +1940,7 @@
           "dte": 84,
           "is_wide": false,
           "is_thin_oi": true,
-          "mid": 20.375
+          "mid": 20.4
         },
         {
           "code": "US.BA260717P250000",
