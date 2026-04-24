@@ -1,7 +1,7 @@
 {
   "symbol": "AMZN",
   "underlying": "US.AMZN",
-  "asof_jst": "2026-04-25 03:52:21",
+  "asof_jst": "2026-04-25 03:52:28",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -12,8 +12,8 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 263.55,
-  "underlying_change_pct": 3.32,
+  "underlying_price": 263.49,
+  "underlying_change_pct": 3.3,
   "error": "",
   "expiries": [
     {
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 54,
       "is_monthly": true,
-      "underlying_price": 263.55,
-      "fetch_time": "2026-04-25T03:52:21",
+      "underlying_price": 263.49,
+      "fetch_time": "2026-04-25T03:52:28",
       "error": "",
       "calls": [
         {
@@ -284,10 +284,10 @@
           "strike": 265.0,
           "expiry": "2026-06-18",
           "last_price": 14.8,
-          "bid": 15.0,
+          "bid": 14.95,
           "ask": 15.1,
-          "spread": 0.1,
-          "spread_pct": 0.66,
+          "spread": 0.15,
+          "spread_pct": 1.0,
           "volume": 2379,
           "open_interest": 25023,
           "iv": 0.36924,
@@ -299,7 +299,7 @@
           "dte": 55,
           "is_wide": false,
           "is_thin_oi": false,
-          "mid": 15.05
+          "mid": 15.025
         },
         {
           "code": "US.AMZN260618C270000",
@@ -611,10 +611,10 @@
           "strike": 225.0,
           "expiry": "2026-06-18",
           "last_price": 3.05,
-          "bid": 3.05,
-          "ask": 3.1,
+          "bid": 3.0,
+          "ask": 3.05,
           "spread": 0.05,
-          "spread_pct": 1.63,
+          "spread_pct": 1.65,
           "volume": 657,
           "open_interest": 11963,
           "iv": 0.40885,
@@ -626,7 +626,7 @@
           "dte": 55,
           "is_wide": false,
           "is_thin_oi": false,
-          "mid": 3.075
+          "mid": 3.025
         },
         {
           "code": "US.AMZN260618P230000",
@@ -1086,8 +1086,8 @@
       "expiry": "2026-07-17",
       "dte": 83,
       "is_monthly": true,
-      "underlying_price": 263.55,
-      "fetch_time": "2026-04-25T03:52:21",
+      "underlying_price": 263.5,
+      "fetch_time": "2026-04-25T03:52:29",
       "error": "",
       "calls": [
         {
@@ -1502,7 +1502,7 @@
           "ask": 7.5,
           "spread": 0.2,
           "spread_pct": 2.7,
-          "volume": 95,
+          "volume": 96,
           "open_interest": 2512,
           "iv": 0.34575,
           "delta": 0.291930808,
@@ -1552,7 +1552,7 @@
           "ask": 5.45,
           "spread": 0.15,
           "spread_pct": 2.79,
-          "volume": 6462,
+          "volume": 6463,
           "open_interest": 3212,
           "iv": 0.34674,
           "delta": 0.227816268,
