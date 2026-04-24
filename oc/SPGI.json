@@ -1,7 +1,7 @@
 {
   "symbol": "SPGI",
   "underlying": "US.SPGI",
-  "asof_jst": "2026-04-24 20:11:36",
+  "asof_jst": "2026-04-24 20:49:45",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 55,
       "is_monthly": true,
       "underlying_price": 439.03,
-      "fetch_time": "2026-04-24T20:11:36",
+      "fetch_time": "2026-04-24T20:49:45",
       "error": "",
       "calls": [
         {
@@ -1087,7 +1087,7 @@
       "dte": 84,
       "is_monthly": true,
       "underlying_price": 439.03,
-      "fetch_time": "2026-04-24T20:11:37",
+      "fetch_time": "2026-04-24T20:49:47",
       "error": "",
       "calls": [
         {
