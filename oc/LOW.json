@@ -1,10 +1,10 @@
 {
   "symbol": "LOW",
   "underlying": "US.LOW",
-  "asof_jst": "2026-04-26 05:50:56",
+  "asof_jst": "2026-04-26 05:55:57",
   "source": {
     "chain": "moomoo OpenD",
-    "underlying": "moomoo_opend"
+    "underlying": "yfinance"
   },
   "filters": {
     "min_dte": 30,
@@ -13,7 +13,7 @@
     "strikes_each_side": 10
   },
   "underlying_price": 244.45,
-  "underlying_change_pct": -0.85,
+  "underlying_change_pct": -0.63,
   "error": "",
   "expiries": [
     {
@@ -23,7 +23,7 @@
       "dte": 53,
       "is_monthly": true,
       "underlying_price": 244.45,
-      "fetch_time": "2026-04-26T05:50:56",
+      "fetch_time": "2026-04-26T05:55:57",
       "error": "",
       "calls": [
         {
@@ -737,7 +737,7 @@
       "dte": 82,
       "is_monthly": true,
       "underlying_price": 244.45,
-      "fetch_time": "2026-04-26T05:50:57",
+      "fetch_time": "2026-04-26T05:55:57",
       "error": "",
       "calls": [
         {
