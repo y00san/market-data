@@ -1,7 +1,7 @@
 {
   "symbol": "UAL",
   "underlying": "US.UAL",
-  "asof_jst": "2026-04-26 05:22:50",
+  "asof_jst": "2026-04-26 05:28:23",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 53,
       "is_monthly": true,
       "underlying_price": 93.0,
-      "fetch_time": "2026-04-26T05:22:50",
+      "fetch_time": "2026-04-26T05:28:23",
       "error": "",
       "calls": [
         {
@@ -837,8 +837,8 @@
       "dte": 82,
       "is_monthly": true,
       "underlying_price": 0.0,
-      "fetch_time": "2026-04-26T05:22:52",
-      "error": "チェーン取得失敗: US.UAL 2026-07-17",
+      "fetch_time": "2026-04-26T05:28:23",
+      "error": "チェーン取得失敗: Get Option Chain is too frequent，request failed, no more than 10 times every 30 seconds.",
       "calls": [],
       "puts": []
     }
