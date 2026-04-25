@@ -1,11 +1,11 @@
 {
-  "asof_jst": "2026-04-26 04:18:03",
+  "asof_jst": "2026-04-26 04:23:07",
   "inline": true,
   "items": [
     {
       "symbol": "AMZN",
       "underlying_price": 263.99,
-      "asof_jst": "2026-04-26 04:13:42",
+      "asof_jst": "2026-04-26 04:18:46",
       "expiry_count": 2,
       "path": "oc/AMZN.json",
       "error": "",
@@ -17,7 +17,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 263.99,
-          "fetch_time": "2026-04-26T04:13:42",
+          "fetch_time": "2026-04-26T04:18:46",
           "error": "",
           "calls": [
             {
@@ -1081,7 +1081,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 263.99,
-          "fetch_time": "2026-04-26T04:13:42",
+          "fetch_time": "2026-04-26T04:18:46",
           "error": "",
           "calls": [
             {
@@ -2143,7 +2143,7 @@
     {
       "symbol": "BA",
       "underlying_price": 232.44,
-      "asof_jst": "2026-04-26 04:13:45",
+      "asof_jst": "2026-04-26 04:18:49",
       "expiry_count": 2,
       "path": "oc/BA.json",
       "error": "",
@@ -2155,7 +2155,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 232.44,
-          "fetch_time": "2026-04-26T04:13:45",
+          "fetch_time": "2026-04-26T04:18:49",
           "error": "",
           "calls": [
             {
@@ -3219,7 +3219,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 232.44,
-          "fetch_time": "2026-04-26T04:13:46",
+          "fetch_time": "2026-04-26T04:18:50",
           "error": "",
           "calls": [
             {
@@ -4281,7 +4281,7 @@
     {
       "symbol": "BSX",
       "underlying_price": 62.07,
-      "asof_jst": "2026-04-26 04:13:49",
+      "asof_jst": "2026-04-26 04:18:53",
       "expiry_count": 2,
       "path": "oc/BSX.json",
       "error": "",
@@ -4293,7 +4293,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 62.07,
-          "fetch_time": "2026-04-26T04:13:49",
+          "fetch_time": "2026-04-26T04:18:53",
           "error": "",
           "calls": [
             {
@@ -4807,7 +4807,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 62.07,
-          "fetch_time": "2026-04-26T04:13:49",
+          "fetch_time": "2026-04-26T04:18:53",
           "error": "",
           "calls": [
             {
@@ -5119,7 +5119,7 @@
     {
       "symbol": "BX",
       "underlying_price": 121.65,
-      "asof_jst": "2026-04-26 04:13:52",
+      "asof_jst": "2026-04-26 04:18:56",
       "expiry_count": 2,
       "path": "oc/BX.json",
       "error": "",
@@ -5131,7 +5131,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 121.65,
-          "fetch_time": "2026-04-26T04:13:52",
+          "fetch_time": "2026-04-26T04:18:56",
           "error": "",
           "calls": [
             {
@@ -5745,7 +5745,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 121.65,
-          "fetch_time": "2026-04-26T04:13:52",
+          "fetch_time": "2026-04-26T04:18:56",
           "error": "",
           "calls": [
             {
@@ -6357,7 +6357,7 @@
     {
       "symbol": "CHTR",
       "underlying_price": 180.13,
-      "asof_jst": "2026-04-26 04:13:55",
+      "asof_jst": "2026-04-26 04:18:59",
       "expiry_count": 2,
       "path": "oc/CHTR.json",
       "error": "",
@@ -6369,7 +6369,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 180.13,
-          "fetch_time": "2026-04-26T04:13:55",
+          "fetch_time": "2026-04-26T04:18:59",
           "error": "",
           "calls": [
             {
@@ -7133,7 +7133,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 180.13,
-          "fetch_time": "2026-04-26T04:14:13",
+          "fetch_time": "2026-04-26T04:19:17",
           "error": "",
           "calls": [
             {
@@ -7895,7 +7895,7 @@
     {
       "symbol": "CLF",
       "underlying_price": 9.76,
-      "asof_jst": "2026-04-26 04:14:16",
+      "asof_jst": "2026-04-26 04:19:20",
       "expiry_count": 2,
       "path": "oc/CLF.json",
       "error": "",
@@ -7907,7 +7907,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 9.76,
-          "fetch_time": "2026-04-26T04:14:16",
+          "fetch_time": "2026-04-26T04:19:20",
           "error": "",
           "calls": [
             {
@@ -8171,7 +8171,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 9.76,
-          "fetch_time": "2026-04-26T04:14:16",
+          "fetch_time": "2026-04-26T04:19:21",
           "error": "",
           "calls": [
             {
@@ -8433,7 +8433,7 @@
     {
       "symbol": "CMCSA",
       "underlying_price": 27.56,
-      "asof_jst": "2026-04-26 04:14:19",
+      "asof_jst": "2026-04-26 04:19:23",
       "expiry_count": 2,
       "path": "oc/CMCSA.json",
       "error": "",
@@ -8445,7 +8445,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 27.56,
-          "fetch_time": "2026-04-26T04:14:19",
+          "fetch_time": "2026-04-26T04:19:23",
           "error": "",
           "calls": [
             {
@@ -9259,7 +9259,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 27.56,
-          "fetch_time": "2026-04-26T04:14:20",
+          "fetch_time": "2026-04-26T04:19:24",
           "error": "",
           "calls": [
             {
@@ -10071,7 +10071,7 @@
     {
       "symbol": "GE",
       "underlying_price": 284.6,
-      "asof_jst": "2026-04-26 04:14:23",
+      "asof_jst": "2026-04-26 04:19:27",
       "expiry_count": 2,
       "path": "oc/GE.json",
       "error": "",
@@ -10083,7 +10083,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 284.6,
-          "fetch_time": "2026-04-26T04:14:23",
+          "fetch_time": "2026-04-26T04:19:27",
           "error": "",
           "calls": [
             {
@@ -10797,7 +10797,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 284.6,
-          "fetch_time": "2026-04-26T04:14:23",
+          "fetch_time": "2026-04-26T04:19:27",
           "error": "",
           "calls": [
             {
@@ -11509,7 +11509,7 @@
     {
       "symbol": "GEV",
       "underlying_price": 1149.19,
-      "asof_jst": "2026-04-26 04:14:26",
+      "asof_jst": "2026-04-26 04:19:30",
       "expiry_count": 2,
       "path": "oc/GEV.json",
       "error": "",
@@ -11521,7 +11521,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 1149.19,
-          "fetch_time": "2026-04-26T04:14:26",
+          "fetch_time": "2026-04-26T04:19:30",
           "error": "",
           "calls": [
             {
@@ -12585,7 +12585,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 1149.19,
-          "fetch_time": "2026-04-26T04:14:44",
+          "fetch_time": "2026-04-26T04:19:48",
           "error": "",
           "calls": [
             {
@@ -13647,7 +13647,7 @@
     {
       "symbol": "GILD",
       "underlying_price": 130.4,
-      "asof_jst": "2026-04-26 04:14:47",
+      "asof_jst": "2026-04-26 04:19:51",
       "expiry_count": 2,
       "path": "oc/GILD.json",
       "error": "",
@@ -13659,7 +13659,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 130.4,
-          "fetch_time": "2026-04-26T04:14:47",
+          "fetch_time": "2026-04-26T04:19:51",
           "error": "",
           "calls": [
             {
@@ -14323,7 +14323,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 130.4,
-          "fetch_time": "2026-04-26T04:14:47",
+          "fetch_time": "2026-04-26T04:19:52",
           "error": "",
           "calls": [
             {
@@ -14985,7 +14985,7 @@
     {
       "symbol": "GLD",
       "underlying_price": 433.25,
-      "asof_jst": "2026-04-26 04:14:51",
+      "asof_jst": "2026-04-26 04:19:55",
       "expiry_count": 2,
       "path": "oc/GLD.json",
       "error": "",
@@ -14997,7 +14997,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 433.25,
-          "fetch_time": "2026-04-26T04:14:51",
+          "fetch_time": "2026-04-26T04:19:55",
           "error": "",
           "calls": [
             {
@@ -16061,7 +16061,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 433.25,
-          "fetch_time": "2026-04-26T04:14:51",
+          "fetch_time": "2026-04-26T04:19:56",
           "error": "",
           "calls": [
             {
@@ -17123,7 +17123,7 @@
     {
       "symbol": "GOOGL",
       "underlying_price": 344.4,
-      "asof_jst": "2026-04-26 04:14:54",
+      "asof_jst": "2026-04-26 04:19:59",
       "expiry_count": 2,
       "path": "oc/GOOGL.json",
       "error": "",
@@ -17135,7 +17135,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 344.4,
-          "fetch_time": "2026-04-26T04:14:54",
+          "fetch_time": "2026-04-26T04:19:59",
           "error": "",
           "calls": [
             {
@@ -18199,7 +18199,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 344.4,
-          "fetch_time": "2026-04-26T04:14:55",
+          "fetch_time": "2026-04-26T04:20:00",
           "error": "",
           "calls": [
             {
@@ -19261,7 +19261,7 @@
     {
       "symbol": "HSY",
       "underlying_price": 191.48,
-      "asof_jst": "2026-04-26 04:14:58",
+      "asof_jst": "2026-04-26 04:20:04",
       "expiry_count": 2,
       "path": "oc/HSY.json",
       "error": "",
@@ -19273,7 +19273,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 191.48,
-          "fetch_time": "2026-04-26T04:14:58",
+          "fetch_time": "2026-04-26T04:20:04",
           "error": "",
           "calls": [
             {
@@ -20037,7 +20037,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 0.0,
-          "fetch_time": "2026-04-26T04:15:14",
+          "fetch_time": "2026-04-26T04:20:18",
           "error": "チェーン取得失敗: US.HSY 2026-07-17",
           "calls": [],
           "puts": []
@@ -20047,7 +20047,7 @@
     {
       "symbol": "IBM",
       "underlying_price": 231.98,
-      "asof_jst": "2026-04-26 04:15:17",
+      "asof_jst": "2026-04-26 04:20:21",
       "expiry_count": 2,
       "path": "oc/IBM.json",
       "error": "",
@@ -20059,7 +20059,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 231.98,
-          "fetch_time": "2026-04-26T04:15:17",
+          "fetch_time": "2026-04-26T04:20:21",
           "error": "",
           "calls": [
             {
@@ -21123,7 +21123,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 231.98,
-          "fetch_time": "2026-04-26T04:15:18",
+          "fetch_time": "2026-04-26T04:20:23",
           "error": "",
           "calls": [
             {
@@ -22185,7 +22185,7 @@
     {
       "symbol": "INTC",
       "underlying_price": 82.54,
-      "asof_jst": "2026-04-26 04:15:21",
+      "asof_jst": "2026-04-26 04:20:25",
       "expiry_count": 2,
       "path": "oc/INTC.json",
       "error": "",
@@ -22197,7 +22197,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 82.54,
-          "fetch_time": "2026-04-26T04:15:21",
+          "fetch_time": "2026-04-26T04:20:25",
           "error": "",
           "calls": [
             {
@@ -22761,7 +22761,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 82.54,
-          "fetch_time": "2026-04-26T04:15:22",
+          "fetch_time": "2026-04-26T04:20:26",
           "error": "",
           "calls": [
             {
@@ -23323,7 +23323,7 @@
     {
       "symbol": "ISRG",
       "underlying_price": 482.22,
-      "asof_jst": "2026-04-26 04:15:25",
+      "asof_jst": "2026-04-26 04:20:29",
       "expiry_count": 2,
       "path": "oc/ISRG.json",
       "error": "",
@@ -23335,7 +23335,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 482.22,
-          "fetch_time": "2026-04-26T04:15:25",
+          "fetch_time": "2026-04-26T04:20:29",
           "error": "",
           "calls": [
             {
@@ -24399,7 +24399,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 482.22,
-          "fetch_time": "2026-04-26T04:15:25",
+          "fetch_time": "2026-04-26T04:20:31",
           "error": "",
           "calls": [
             {
@@ -25461,7 +25461,7 @@
     {
       "symbol": "IWM",
       "underlying_price": 276.65,
-      "asof_jst": "2026-04-26 04:15:28",
+      "asof_jst": "2026-04-26 04:20:34",
       "expiry_count": 2,
       "path": "oc/IWM.json",
       "error": "",
@@ -25473,7 +25473,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 276.65,
-          "fetch_time": "2026-04-26T04:15:28",
+          "fetch_time": "2026-04-26T04:20:34",
           "error": "",
           "calls": [
             {
@@ -26537,7 +26537,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 276.65,
-          "fetch_time": "2026-04-26T04:15:45",
+          "fetch_time": "2026-04-26T04:20:49",
           "error": "",
           "calls": [
             {
@@ -27599,7 +27599,7 @@
     {
       "symbol": "KDP",
       "underlying_price": 29.22,
-      "asof_jst": "2026-04-26 04:15:48",
+      "asof_jst": "2026-04-26 04:20:53",
       "expiry_count": 2,
       "path": "oc/KDP.json",
       "error": "",
@@ -27611,7 +27611,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 29.22,
-          "fetch_time": "2026-04-26T04:15:48",
+          "fetch_time": "2026-04-26T04:20:53",
           "error": "",
           "calls": [
             {
@@ -28375,7 +28375,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 29.22,
-          "fetch_time": "2026-04-26T04:15:49",
+          "fetch_time": "2026-04-26T04:20:53",
           "error": "",
           "calls": [
             {
@@ -29137,7 +29137,7 @@
     {
       "symbol": "KMB",
       "underlying_price": 97.85,
-      "asof_jst": "2026-04-26 04:15:52",
+      "asof_jst": "2026-04-26 04:20:56",
       "expiry_count": 2,
       "path": "oc/KMB.json",
       "error": "",
@@ -29149,7 +29149,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 97.85,
-          "fetch_time": "2026-04-26T04:15:52",
+          "fetch_time": "2026-04-26T04:20:56",
           "error": "",
           "calls": [
             {
@@ -29663,7 +29663,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 97.85,
-          "fetch_time": "2026-04-26T04:15:53",
+          "fetch_time": "2026-04-26T04:20:57",
           "error": "",
           "calls": [
             {
@@ -30175,7 +30175,7 @@
     {
       "symbol": "LOW",
       "underlying_price": 244.45,
-      "asof_jst": "2026-04-26 04:15:55",
+      "asof_jst": "2026-04-26 04:21:00",
       "expiry_count": 2,
       "path": "oc/LOW.json",
       "error": "",
@@ -30187,7 +30187,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 244.45,
-          "fetch_time": "2026-04-26T04:15:55",
+          "fetch_time": "2026-04-26T04:21:00",
           "error": "",
           "calls": [
             {
@@ -30901,7 +30901,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 244.45,
-          "fetch_time": "2026-04-26T04:15:56",
+          "fetch_time": "2026-04-26T04:21:01",
           "error": "",
           "calls": [
             {
@@ -31613,7 +31613,7 @@
     {
       "symbol": "MS",
       "underlying_price": 188.07,
-      "asof_jst": "2026-04-26 04:15:59",
+      "asof_jst": "2026-04-26 04:21:05",
       "expiry_count": 2,
       "path": "oc/MS.json",
       "error": "",
@@ -31625,7 +31625,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 188.07,
-          "fetch_time": "2026-04-26T04:15:59",
+          "fetch_time": "2026-04-26T04:21:05",
           "error": "",
           "calls": [
             {
@@ -32389,7 +32389,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 188.07,
-          "fetch_time": "2026-04-26T04:16:15",
+          "fetch_time": "2026-04-26T04:21:20",
           "error": "",
           "calls": [
             {
@@ -33151,7 +33151,7 @@
     {
       "symbol": "MU",
       "underlying_price": 496.72,
-      "asof_jst": "2026-04-26 04:16:18",
+      "asof_jst": "2026-04-26 04:21:23",
       "expiry_count": 2,
       "path": "oc/MU.json",
       "error": "",
@@ -33163,7 +33163,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 496.72,
-          "fetch_time": "2026-04-26T04:16:18",
+          "fetch_time": "2026-04-26T04:21:23",
           "error": "",
           "calls": [
             {
@@ -34227,7 +34227,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 496.72,
-          "fetch_time": "2026-04-26T04:16:20",
+          "fetch_time": "2026-04-26T04:21:24",
           "error": "",
           "calls": [
             {
@@ -35289,7 +35289,7 @@
     {
       "symbol": "NEE",
       "underlying_price": 95.28,
-      "asof_jst": "2026-04-26 04:16:23",
+      "asof_jst": "2026-04-26 04:21:27",
       "expiry_count": 2,
       "path": "oc/NEE.json",
       "error": "",
@@ -35301,7 +35301,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 95.28,
-          "fetch_time": "2026-04-26T04:16:23",
+          "fetch_time": "2026-04-26T04:21:27",
           "error": "",
           "calls": [
             {
@@ -36065,7 +36065,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 0.0,
-          "fetch_time": "2026-04-26T04:16:24",
+          "fetch_time": "2026-04-26T04:21:28",
           "error": "チェーン取得失敗: US.NEE 2026-07-17",
           "calls": [],
           "puts": []
@@ -36075,7 +36075,7 @@
     {
       "symbol": "NEM",
       "underlying_price": 120.7,
-      "asof_jst": "2026-04-26 04:16:26",
+      "asof_jst": "2026-04-26 04:21:30",
       "expiry_count": 2,
       "path": "oc/NEM.json",
       "error": "",
@@ -36087,7 +36087,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 120.7,
-          "fetch_time": "2026-04-26T04:16:26",
+          "fetch_time": "2026-04-26T04:21:30",
           "error": "",
           "calls": [
             {
@@ -36801,7 +36801,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 120.7,
-          "fetch_time": "2026-04-26T04:16:27",
+          "fetch_time": "2026-04-26T04:21:32",
           "error": "",
           "calls": [
             {
@@ -37513,7 +37513,7 @@
     {
       "symbol": "NFLX",
       "underlying_price": 92.44,
-      "asof_jst": "2026-04-26 04:16:29",
+      "asof_jst": "2026-04-26 04:21:35",
       "expiry_count": 2,
       "path": "oc/NFLX.json",
       "error": "",
@@ -37525,7 +37525,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 92.44,
-          "fetch_time": "2026-04-26T04:16:29",
+          "fetch_time": "2026-04-26T04:21:35",
           "error": "",
           "calls": [
             {
@@ -38589,7 +38589,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 92.44,
-          "fetch_time": "2026-04-26T04:16:46",
+          "fetch_time": "2026-04-26T04:21:51",
           "error": "",
           "calls": [
             {
@@ -39101,7 +39101,7 @@
     {
       "symbol": "NOW",
       "underlying_price": 90.17,
-      "asof_jst": "2026-04-26 04:16:49",
+      "asof_jst": "2026-04-26 04:21:54",
       "expiry_count": 2,
       "path": "oc/NOW.json",
       "error": "",
@@ -39113,7 +39113,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 90.17,
-          "fetch_time": "2026-04-26T04:16:49",
+          "fetch_time": "2026-04-26T04:21:54",
           "error": "",
           "calls": [
             {
@@ -40177,7 +40177,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 90.17,
-          "fetch_time": "2026-04-26T04:16:50",
+          "fetch_time": "2026-04-26T04:21:54",
           "error": "",
           "calls": [
             {
@@ -40639,7 +40639,7 @@
     {
       "symbol": "NVDA",
       "underlying_price": 208.27,
-      "asof_jst": "2026-04-26 04:16:53",
+      "asof_jst": "2026-04-26 04:21:57",
       "expiry_count": 2,
       "path": "oc/NVDA.json",
       "error": "",
@@ -40651,7 +40651,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 208.27,
-          "fetch_time": "2026-04-26T04:16:53",
+          "fetch_time": "2026-04-26T04:21:57",
           "error": "",
           "calls": [
             {
@@ -41715,7 +41715,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 208.27,
-          "fetch_time": "2026-04-26T04:16:55",
+          "fetch_time": "2026-04-26T04:21:58",
           "error": "",
           "calls": [
             {
@@ -42777,7 +42777,7 @@
     {
       "symbol": "PM",
       "underlying_price": 164.2,
-      "asof_jst": "2026-04-26 04:16:57",
+      "asof_jst": "2026-04-26 04:22:01",
       "expiry_count": 2,
       "path": "oc/PM.json",
       "error": "",
@@ -42789,7 +42789,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 164.2,
-          "fetch_time": "2026-04-26T04:16:57",
+          "fetch_time": "2026-04-26T04:22:01",
           "error": "",
           "calls": [
             {
@@ -43603,7 +43603,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 164.2,
-          "fetch_time": "2026-04-26T04:16:58",
+          "fetch_time": "2026-04-26T04:22:03",
           "error": "",
           "calls": [
             {
@@ -44415,7 +44415,7 @@
     {
       "symbol": "QQQ",
       "underlying_price": 663.88,
-      "asof_jst": "2026-04-26 04:17:01",
+      "asof_jst": "2026-04-26 04:22:06",
       "expiry_count": 2,
       "path": "oc/QQQ.json",
       "error": "",
@@ -44427,7 +44427,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 663.88,
-          "fetch_time": "2026-04-26T04:17:01",
+          "fetch_time": "2026-04-26T04:22:06",
           "error": "",
           "calls": [
             {
@@ -45491,7 +45491,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 663.88,
-          "fetch_time": "2026-04-26T04:17:17",
+          "fetch_time": "2026-04-26T04:22:22",
           "error": "",
           "calls": [
             {
@@ -46553,7 +46553,7 @@
     {
       "symbol": "RCL",
       "underlying_price": 265.84,
-      "asof_jst": "2026-04-26 04:17:21",
+      "asof_jst": "2026-04-26 04:22:25",
       "expiry_count": 2,
       "path": "oc/RCL.json",
       "error": "",
@@ -46565,7 +46565,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 265.84,
-          "fetch_time": "2026-04-26T04:17:21",
+          "fetch_time": "2026-04-26T04:22:25",
           "error": "",
           "calls": [
             {
@@ -47279,7 +47279,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 265.84,
-          "fetch_time": "2026-04-26T04:17:22",
+          "fetch_time": "2026-04-26T04:22:26",
           "error": "",
           "calls": [
             {
@@ -47991,7 +47991,7 @@
     {
       "symbol": "SPY",
       "underlying_price": 713.94,
-      "asof_jst": "2026-04-26 04:17:24",
+      "asof_jst": "2026-04-26 04:22:29",
       "expiry_count": 2,
       "path": "oc/SPY.json",
       "error": "",
@@ -48003,7 +48003,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 713.94,
-          "fetch_time": "2026-04-26T04:17:24",
+          "fetch_time": "2026-04-26T04:22:29",
           "error": "",
           "calls": [
             {
@@ -49067,7 +49067,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 713.94,
-          "fetch_time": "2026-04-26T04:17:26",
+          "fetch_time": "2026-04-26T04:22:30",
           "error": "",
           "calls": [
             {
@@ -50129,7 +50129,7 @@
     {
       "symbol": "STM",
       "underlying_price": 50.47,
-      "asof_jst": "2026-04-26 04:17:29",
+      "asof_jst": "2026-04-26 04:22:33",
       "expiry_count": 2,
       "path": "oc/STM.json",
       "error": "",
@@ -50141,7 +50141,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 50.47,
-          "fetch_time": "2026-04-26T04:17:29",
+          "fetch_time": "2026-04-26T04:22:33",
           "error": "",
           "calls": [
             {
@@ -50805,7 +50805,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 50.47,
-          "fetch_time": "2026-04-26T04:17:29",
+          "fetch_time": "2026-04-26T04:22:34",
           "error": "",
           "calls": [
             {
@@ -51467,7 +51467,7 @@
     {
       "symbol": "TXN",
       "underlying_price": 277.14,
-      "asof_jst": "2026-04-26 04:17:32",
+      "asof_jst": "2026-04-26 04:22:37",
       "expiry_count": 2,
       "path": "oc/TXN.json",
       "error": "",
@@ -51479,7 +51479,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 277.14,
-          "fetch_time": "2026-04-26T04:17:32",
+          "fetch_time": "2026-04-26T04:22:37",
           "error": "",
           "calls": [
             {
@@ -52343,7 +52343,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 277.14,
-          "fetch_time": "2026-04-26T04:17:48",
+          "fetch_time": "2026-04-26T04:22:52",
           "error": "",
           "calls": [
             {
@@ -53055,7 +53055,7 @@
     {
       "symbol": "UAL",
       "underlying_price": 93.0,
-      "asof_jst": "2026-04-26 04:17:51",
+      "asof_jst": "2026-04-26 04:22:55",
       "expiry_count": 2,
       "path": "oc/UAL.json",
       "error": "",
@@ -53067,7 +53067,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 93.0,
-          "fetch_time": "2026-04-26T04:17:51",
+          "fetch_time": "2026-04-26T04:22:55",
           "error": "",
           "calls": [
             {
@@ -53881,7 +53881,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 0.0,
-          "fetch_time": "2026-04-26T04:17:52",
+          "fetch_time": "2026-04-26T04:22:56",
           "error": "チェーン取得失敗: US.UAL 2026-07-17",
           "calls": [],
           "puts": []
@@ -53891,7 +53891,7 @@
     {
       "symbol": "UNH",
       "underlying_price": 354.92,
-      "asof_jst": "2026-04-26 04:17:55",
+      "asof_jst": "2026-04-26 04:22:59",
       "expiry_count": 2,
       "path": "oc/UNH.json",
       "error": "",
@@ -53903,7 +53903,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 354.92,
-          "fetch_time": "2026-04-26T04:17:55",
+          "fetch_time": "2026-04-26T04:22:59",
           "error": "",
           "calls": [
             {
@@ -54817,7 +54817,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 354.92,
-          "fetch_time": "2026-04-26T04:17:56",
+          "fetch_time": "2026-04-26T04:23:00",
           "error": "",
           "calls": [
             {
@@ -55729,7 +55729,7 @@
     {
       "symbol": "WFC",
       "underlying_price": 79.42,
-      "asof_jst": "2026-04-26 04:18:00",
+      "asof_jst": "2026-04-26 04:23:04",
       "expiry_count": 2,
       "path": "oc/WFC.json",
       "error": "",
@@ -55741,7 +55741,7 @@
           "dte": 53,
           "is_monthly": true,
           "underlying_price": 79.42,
-          "fetch_time": "2026-04-26T04:18:00",
+          "fetch_time": "2026-04-26T04:23:04",
           "error": "",
           "calls": [
             {
@@ -56555,7 +56555,7 @@
           "dte": 82,
           "is_monthly": true,
           "underlying_price": 79.42,
-          "fetch_time": "2026-04-26T04:18:00",
+          "fetch_time": "2026-04-26T04:23:04",
           "error": "",
           "calls": [
             {
