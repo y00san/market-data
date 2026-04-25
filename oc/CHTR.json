@@ -1,10 +1,10 @@
 {
   "symbol": "CHTR",
   "underlying": "US.CHTR",
-  "asof_jst": "2026-04-26 04:53:55",
+  "asof_jst": "2026-04-26 04:59:26",
   "source": {
     "chain": "moomoo OpenD",
-    "underlying": "yfinance"
+    "underlying": "moomoo_opend"
   },
   "filters": {
     "min_dte": 30,
@@ -13,7 +13,7 @@
     "strikes_each_side": 10
   },
   "underlying_price": 180.13,
-  "underlying_change_pct": -25.42,
+  "underlying_change_pct": -25.5,
   "error": "",
   "expiries": [
     {
@@ -23,7 +23,7 @@
       "dte": 53,
       "is_monthly": true,
       "underlying_price": 180.13,
-      "fetch_time": "2026-04-26T04:53:55",
+      "fetch_time": "2026-04-26T04:59:26",
       "error": "",
       "calls": [
         {
@@ -787,7 +787,7 @@
       "dte": 82,
       "is_monthly": true,
       "underlying_price": 180.13,
-      "fetch_time": "2026-04-26T04:54:15",
+      "fetch_time": "2026-04-26T04:59:26",
       "error": "",
       "calls": [
         {
