@@ -1,7 +1,7 @@
 {
   "symbol": "STM",
   "underlying": "US.STM",
-  "asof_jst": "2026-04-27 05:22:26",
+  "asof_jst": "2026-04-27 05:27:24",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 52,
       "is_monthly": true,
       "underlying_price": 50.47,
-      "fetch_time": "2026-04-27T05:22:26",
+      "fetch_time": "2026-04-27T05:27:24",
       "error": "",
       "calls": [
         {
@@ -687,7 +687,7 @@
       "dte": 81,
       "is_monthly": true,
       "underlying_price": 50.47,
-      "fetch_time": "2026-04-27T05:22:26",
+      "fetch_time": "2026-04-27T05:27:25",
       "error": "",
       "calls": [
         {
