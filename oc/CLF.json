@@ -1,7 +1,7 @@
 {
   "symbol": "CLF",
   "underlying": "US.CLF",
-  "asof_jst": "2026-04-27 05:19:12",
+  "asof_jst": "2026-04-27 05:24:11",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 52,
       "is_monthly": true,
       "underlying_price": 9.76,
-      "fetch_time": "2026-04-27T05:19:12",
+      "fetch_time": "2026-04-27T05:24:11",
       "error": "",
       "calls": [
         {
@@ -287,7 +287,7 @@
       "dte": 81,
       "is_monthly": true,
       "underlying_price": 9.76,
-      "fetch_time": "2026-04-27T05:19:13",
+      "fetch_time": "2026-04-27T05:24:12",
       "error": "",
       "calls": [
         {
