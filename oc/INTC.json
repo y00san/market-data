@@ -1,7 +1,7 @@
 {
   "symbol": "INTC",
   "underlying": "US.INTC",
-  "asof_jst": "2026-04-27 03:40:23",
+  "asof_jst": "2026-04-27 03:45:16",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 52,
       "is_monthly": true,
       "underlying_price": 82.54,
-      "fetch_time": "2026-04-27T03:40:23",
+      "fetch_time": "2026-04-27T03:45:16",
       "error": "",
       "calls": [
         {
@@ -587,7 +587,7 @@
       "dte": 81,
       "is_monthly": true,
       "underlying_price": 82.54,
-      "fetch_time": "2026-04-27T03:40:24",
+      "fetch_time": "2026-04-27T03:45:17",
       "error": "",
       "calls": [
         {
