@@ -1,11 +1,11 @@
 {
-  "asof_jst": "2026-04-28 18:28:13",
+  "asof_jst": "2026-04-28 18:38:46",
   "inline": true,
   "items": [
     {
       "symbol": "AMZN",
       "underlying_price": 261.12,
-      "asof_jst": "2026-04-28 18:24:16",
+      "asof_jst": "2026-04-28 18:32:55",
       "expiry_count": 2,
       "path": "oc/AMZN.json",
       "error": "",
@@ -17,7 +17,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 261.12,
-          "fetch_time": "2026-04-28T18:24:16",
+          "fetch_time": "2026-04-28T18:32:55",
           "error": "",
           "calls": [
             {
@@ -1081,7 +1081,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 261.12,
-          "fetch_time": "2026-04-28T18:24:17",
+          "fetch_time": "2026-04-28T18:32:56",
           "error": "",
           "calls": [
             {
@@ -2143,7 +2143,7 @@
     {
       "symbol": "BA",
       "underlying_price": 231.33,
-      "asof_jst": "2026-04-28 18:24:21",
+      "asof_jst": "2026-04-28 18:32:58",
       "expiry_count": 2,
       "path": "oc/BA.json",
       "error": "",
@@ -2155,7 +2155,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 231.33,
-          "fetch_time": "2026-04-28T18:24:21",
+          "fetch_time": "2026-04-28T18:32:58",
           "error": "",
           "calls": [
             {
@@ -3219,7 +3219,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 231.33,
-          "fetch_time": "2026-04-28T18:24:21",
+          "fetch_time": "2026-04-28T18:32:59",
           "error": "",
           "calls": [
             {
@@ -4281,7 +4281,7 @@
     {
       "symbol": "BSX",
       "underlying_price": 59.95,
-      "asof_jst": "2026-04-28 18:24:25",
+      "asof_jst": "2026-04-28 18:33:02",
       "expiry_count": 2,
       "path": "oc/BSX.json",
       "error": "",
@@ -4293,7 +4293,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 59.95,
-          "fetch_time": "2026-04-28T18:24:25",
+          "fetch_time": "2026-04-28T18:33:02",
           "error": "",
           "calls": [
             {
@@ -4757,7 +4757,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 59.95,
-          "fetch_time": "2026-04-28T18:24:26",
+          "fetch_time": "2026-04-28T18:33:03",
           "error": "",
           "calls": [
             {
@@ -5069,7 +5069,7 @@
     {
       "symbol": "BX",
       "underlying_price": 120.37,
-      "asof_jst": "2026-04-28 18:24:31",
+      "asof_jst": "2026-04-28 18:33:06",
       "expiry_count": 2,
       "path": "oc/BX.json",
       "error": "",
@@ -5081,7 +5081,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 120.37,
-          "fetch_time": "2026-04-28T18:24:31",
+          "fetch_time": "2026-04-28T18:33:06",
           "error": "",
           "calls": [
             {
@@ -5695,7 +5695,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 120.37,
-          "fetch_time": "2026-04-28T18:24:32",
+          "fetch_time": "2026-04-28T18:33:06",
           "error": "",
           "calls": [
             {
@@ -6307,7 +6307,7 @@
     {
       "symbol": "CHTR",
       "underlying_price": 174.61,
-      "asof_jst": "2026-04-28 18:24:35",
+      "asof_jst": "2026-04-28 18:33:09",
       "expiry_count": 2,
       "path": "oc/CHTR.json",
       "error": "",
@@ -6319,7 +6319,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 174.61,
-          "fetch_time": "2026-04-28T18:24:35",
+          "fetch_time": "2026-04-28T18:33:09",
           "error": "",
           "calls": [
             {
@@ -7083,7 +7083,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 174.61,
-          "fetch_time": "2026-04-28T18:24:47",
+          "fetch_time": "2026-04-28T18:33:26",
           "error": "",
           "calls": [
             {
@@ -7845,7 +7845,7 @@
     {
       "symbol": "CMCSA",
       "underlying_price": 27.51,
-      "asof_jst": "2026-04-28 18:24:51",
+      "asof_jst": "2026-04-28 18:33:30",
       "expiry_count": 2,
       "path": "oc/CMCSA.json",
       "error": "",
@@ -7857,7 +7857,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 27.51,
-          "fetch_time": "2026-04-28T18:24:51",
+          "fetch_time": "2026-04-28T18:33:30",
           "error": "",
           "calls": [
             {
@@ -8671,7 +8671,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 27.51,
-          "fetch_time": "2026-04-28T18:24:52",
+          "fetch_time": "2026-04-28T18:33:30",
           "error": "",
           "calls": [
             {
@@ -9483,7 +9483,7 @@
     {
       "symbol": "DPZ",
       "underlying_price": 335.3,
-      "asof_jst": "2026-04-28 18:24:56",
+      "asof_jst": "2026-04-28 18:33:33",
       "expiry_count": 2,
       "path": "oc/DPZ.json",
       "error": "",
@@ -9495,7 +9495,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 335.3,
-          "fetch_time": "2026-04-28T18:24:56",
+          "fetch_time": "2026-04-28T18:33:33",
           "error": "",
           "calls": [
             {
@@ -10309,7 +10309,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 335.3,
-          "fetch_time": "2026-04-28T18:24:56",
+          "fetch_time": "2026-04-28T18:33:33",
           "error": "",
           "calls": [
             {
@@ -11121,7 +11121,7 @@
     {
       "symbol": "GE",
       "underlying_price": 284.56,
-      "asof_jst": "2026-04-28 18:25:00",
+      "asof_jst": "2026-04-28 18:33:37",
       "expiry_count": 2,
       "path": "oc/GE.json",
       "error": "",
@@ -11133,7 +11133,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 284.56,
-          "fetch_time": "2026-04-28T18:25:00",
+          "fetch_time": "2026-04-28T18:33:37",
           "error": "",
           "calls": [
             {
@@ -11847,7 +11847,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 284.56,
-          "fetch_time": "2026-04-28T18:25:02",
+          "fetch_time": "2026-04-28T18:33:37",
           "error": "",
           "calls": [
             {
@@ -12559,7 +12559,7 @@
     {
       "symbol": "GEV",
       "underlying_price": 1120.23,
-      "asof_jst": "2026-04-28 18:25:06",
+      "asof_jst": "2026-04-28 18:33:40",
       "expiry_count": 2,
       "path": "oc/GEV.json",
       "error": "",
@@ -12571,7 +12571,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 1120.23,
-          "fetch_time": "2026-04-28T18:25:06",
+          "fetch_time": "2026-04-28T18:33:40",
           "error": "",
           "calls": [
             {
@@ -13635,7 +13635,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 1120.23,
-          "fetch_time": "2026-04-28T18:25:19",
+          "fetch_time": "2026-04-28T18:33:57",
           "error": "",
           "calls": [
             {
@@ -14697,7 +14697,7 @@
     {
       "symbol": "GLD",
       "underlying_price": 429.89,
-      "asof_jst": "2026-04-28 18:25:23",
+      "asof_jst": "2026-04-28 18:34:01",
       "expiry_count": 2,
       "path": "oc/GLD.json",
       "error": "",
@@ -14709,7 +14709,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 429.89,
-          "fetch_time": "2026-04-28T18:25:23",
+          "fetch_time": "2026-04-28T18:34:01",
           "error": "",
           "calls": [
             {
@@ -15773,7 +15773,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 429.89,
-          "fetch_time": "2026-04-28T18:25:24",
+          "fetch_time": "2026-04-28T18:34:01",
           "error": "",
           "calls": [
             {
@@ -16835,7 +16835,7 @@
     {
       "symbol": "GOOGL",
       "underlying_price": 350.34,
-      "asof_jst": "2026-04-28 18:25:32",
+      "asof_jst": "2026-04-28 18:34:05",
       "expiry_count": 2,
       "path": "oc/GOOGL.json",
       "error": "",
@@ -16847,7 +16847,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 350.34,
-          "fetch_time": "2026-04-28T18:25:32",
+          "fetch_time": "2026-04-28T18:34:05",
           "error": "",
           "calls": [
             {
@@ -17911,7 +17911,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 350.34,
-          "fetch_time": "2026-04-28T18:25:33",
+          "fetch_time": "2026-04-28T18:34:06",
           "error": "",
           "calls": [
             {
@@ -18973,7 +18973,7 @@
     {
       "symbol": "HON",
       "underlying_price": 212.05,
-      "asof_jst": "2026-04-28 18:25:37",
+      "asof_jst": "2026-04-28 18:34:09",
       "expiry_count": 2,
       "path": "oc/HON.json",
       "error": "",
@@ -18985,7 +18985,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 212.05,
-          "fetch_time": "2026-04-28T18:25:37",
+          "fetch_time": "2026-04-28T18:34:09",
           "error": "",
           "calls": [
             {
@@ -20049,7 +20049,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 212.05,
-          "fetch_time": "2026-04-28T18:25:38",
+          "fetch_time": "2026-04-28T18:34:10",
           "error": "",
           "calls": [
             {
@@ -20811,7 +20811,7 @@
     {
       "symbol": "IBM",
       "underlying_price": 228.05,
-      "asof_jst": "2026-04-28 18:25:42",
+      "asof_jst": "2026-04-28 18:34:13",
       "expiry_count": 2,
       "path": "oc/IBM.json",
       "error": "",
@@ -20823,7 +20823,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 228.05,
-          "fetch_time": "2026-04-28T18:25:42",
+          "fetch_time": "2026-04-28T18:34:13",
           "error": "",
           "calls": [
             {
@@ -21887,7 +21887,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 228.05,
-          "fetch_time": "2026-04-28T18:25:49",
+          "fetch_time": "2026-04-28T18:34:28",
           "error": "",
           "calls": [
             {
@@ -22949,7 +22949,7 @@
     {
       "symbol": "INTC",
       "underlying_price": 84.99,
-      "asof_jst": "2026-04-28 18:25:54",
+      "asof_jst": "2026-04-28 18:34:31",
       "expiry_count": 2,
       "path": "oc/INTC.json",
       "error": "",
@@ -22961,7 +22961,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 84.99,
-          "fetch_time": "2026-04-28T18:25:54",
+          "fetch_time": "2026-04-28T18:34:31",
           "error": "",
           "calls": [
             {
@@ -23525,7 +23525,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 84.99,
-          "fetch_time": "2026-04-28T18:25:54",
+          "fetch_time": "2026-04-28T18:34:32",
           "error": "",
           "calls": [
             {
@@ -24087,7 +24087,7 @@
     {
       "symbol": "ISRG",
       "underlying_price": 470.99,
-      "asof_jst": "2026-04-28 18:25:58",
+      "asof_jst": "2026-04-28 18:34:35",
       "expiry_count": 2,
       "path": "oc/ISRG.json",
       "error": "",
@@ -24099,7 +24099,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 470.99,
-          "fetch_time": "2026-04-28T18:25:58",
+          "fetch_time": "2026-04-28T18:34:35",
           "error": "",
           "calls": [
             {
@@ -25163,7 +25163,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 470.99,
-          "fetch_time": "2026-04-28T18:26:04",
+          "fetch_time": "2026-04-28T18:34:36",
           "error": "",
           "calls": [
             {
@@ -26225,7 +26225,7 @@
     {
       "symbol": "IWM",
       "underlying_price": 277.14,
-      "asof_jst": "2026-04-28 18:26:10",
+      "asof_jst": "2026-04-28 18:34:39",
       "expiry_count": 2,
       "path": "oc/IWM.json",
       "error": "",
@@ -26237,7 +26237,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 277.14,
-          "fetch_time": "2026-04-28T18:26:10",
+          "fetch_time": "2026-04-28T18:34:39",
           "error": "",
           "calls": [
             {
@@ -27301,7 +27301,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 277.14,
-          "fetch_time": "2026-04-28T18:26:11",
+          "fetch_time": "2026-04-28T18:34:40",
           "error": "",
           "calls": [
             {
@@ -28363,7 +28363,7 @@
     {
       "symbol": "KDP",
       "underlying_price": 28.15,
-      "asof_jst": "2026-04-28 18:26:16",
+      "asof_jst": "2026-04-28 18:34:44",
       "expiry_count": 2,
       "path": "oc/KDP.json",
       "error": "",
@@ -28375,7 +28375,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 28.15,
-          "fetch_time": "2026-04-28T18:26:16",
+          "fetch_time": "2026-04-28T18:34:44",
           "error": "",
           "calls": [
             {
@@ -29089,7 +29089,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 28.15,
-          "fetch_time": "2026-04-28T18:26:19",
+          "fetch_time": "2026-04-28T18:34:58",
           "error": "",
           "calls": [
             {
@@ -29801,7 +29801,7 @@
     {
       "symbol": "LOW",
       "underlying_price": 242.55,
-      "asof_jst": "2026-04-28 18:26:24",
+      "asof_jst": "2026-04-28 18:35:02",
       "expiry_count": 2,
       "path": "oc/LOW.json",
       "error": "",
@@ -29813,7 +29813,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 242.55,
-          "fetch_time": "2026-04-28T18:26:24",
+          "fetch_time": "2026-04-28T18:35:02",
           "error": "",
           "calls": [
             {
@@ -30527,7 +30527,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 242.55,
-          "fetch_time": "2026-04-28T18:26:25",
+          "fetch_time": "2026-04-28T18:35:02",
           "error": "",
           "calls": [
             {
@@ -31239,7 +31239,7 @@
     {
       "symbol": "MS",
       "underlying_price": 190.18,
-      "asof_jst": "2026-04-28 18:26:29",
+      "asof_jst": "2026-04-28 18:35:06",
       "expiry_count": 2,
       "path": "oc/MS.json",
       "error": "",
@@ -31251,7 +31251,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 190.18,
-          "fetch_time": "2026-04-28T18:26:29",
+          "fetch_time": "2026-04-28T18:35:06",
           "error": "",
           "calls": [
             {
@@ -32015,7 +32015,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 190.18,
-          "fetch_time": "2026-04-28T18:26:34",
+          "fetch_time": "2026-04-28T18:35:07",
           "error": "",
           "calls": [
             {
@@ -32777,7 +32777,7 @@
     {
       "symbol": "MU",
       "underlying_price": 524.56,
-      "asof_jst": "2026-04-28 18:26:38",
+      "asof_jst": "2026-04-28 18:35:10",
       "expiry_count": 2,
       "path": "oc/MU.json",
       "error": "",
@@ -32789,7 +32789,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 524.56,
-          "fetch_time": "2026-04-28T18:26:38",
+          "fetch_time": "2026-04-28T18:35:10",
           "error": "",
           "calls": [
             {
@@ -33853,7 +33853,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 524.56,
-          "fetch_time": "2026-04-28T18:26:41",
+          "fetch_time": "2026-04-28T18:35:11",
           "error": "",
           "calls": [
             {
@@ -34915,7 +34915,7 @@
     {
       "symbol": "NEE",
       "underlying_price": 94.83,
-      "asof_jst": "2026-04-28 18:26:46",
+      "asof_jst": "2026-04-28 18:35:15",
       "expiry_count": 2,
       "path": "oc/NEE.json",
       "error": "",
@@ -34927,7 +34927,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 94.83,
-          "fetch_time": "2026-04-28T18:26:46",
+          "fetch_time": "2026-04-28T18:35:15",
           "error": "",
           "calls": [
             {
@@ -35691,7 +35691,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 0.0,
-          "fetch_time": "2026-04-28T18:26:50",
+          "fetch_time": "2026-04-28T18:35:29",
           "error": "チェーン取得失敗: US.NEE 2026-07-17",
           "calls": [],
           "puts": []
@@ -35701,7 +35701,7 @@
     {
       "symbol": "NOW",
       "underlying_price": 90.45,
-      "asof_jst": "2026-04-28 18:26:54",
+      "asof_jst": "2026-04-28 18:35:31",
       "expiry_count": 2,
       "path": "oc/NOW.json",
       "error": "",
@@ -35713,7 +35713,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 90.45,
-          "fetch_time": "2026-04-28T18:26:54",
+          "fetch_time": "2026-04-28T18:35:31",
           "error": "",
           "calls": [
             {
@@ -36777,7 +36777,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 90.45,
-          "fetch_time": "2026-04-28T18:26:56",
+          "fetch_time": "2026-04-28T18:35:33",
           "error": "",
           "calls": [
             {
@@ -37239,7 +37239,7 @@
     {
       "symbol": "NVDA",
       "underlying_price": 216.61,
-      "asof_jst": "2026-04-28 18:27:00",
+      "asof_jst": "2026-04-28 18:35:37",
       "expiry_count": 2,
       "path": "oc/NVDA.json",
       "error": "",
@@ -37251,7 +37251,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 216.61,
-          "fetch_time": "2026-04-28T18:27:00",
+          "fetch_time": "2026-04-28T18:35:37",
           "error": "",
           "calls": [
             {
@@ -38315,7 +38315,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 216.61,
-          "fetch_time": "2026-04-28T18:27:06",
+          "fetch_time": "2026-04-28T18:35:38",
           "error": "",
           "calls": [
             {
@@ -39377,7 +39377,7 @@
     {
       "symbol": "PM",
       "underlying_price": 160.9,
-      "asof_jst": "2026-04-28 18:27:10",
+      "asof_jst": "2026-04-28 18:35:41",
       "expiry_count": 2,
       "path": "oc/PM.json",
       "error": "",
@@ -39389,7 +39389,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 160.9,
-          "fetch_time": "2026-04-28T18:27:10",
+          "fetch_time": "2026-04-28T18:35:41",
           "error": "",
           "calls": [
             {
@@ -40203,7 +40203,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 160.9,
-          "fetch_time": "2026-04-28T18:27:12",
+          "fetch_time": "2026-04-28T18:35:41",
           "error": "",
           "calls": [
             {
@@ -41015,7 +41015,7 @@
     {
       "symbol": "QQQ",
       "underlying_price": 664.23,
-      "asof_jst": "2026-04-28 18:27:15",
+      "asof_jst": "2026-04-28 18:35:44",
       "expiry_count": 2,
       "path": "oc/QQQ.json",
       "error": "",
@@ -41027,7 +41027,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 664.23,
-          "fetch_time": "2026-04-28T18:27:15",
+          "fetch_time": "2026-04-28T18:35:44",
           "error": "",
           "calls": [
             {
@@ -41558,11 +41558,11 @@
           ],
           "puts": [
             {
-              "code": "US.QQQ260618P654000",
-              "name": "QQQ 260618 654.00P",
+              "code": "US.QQQ260618P638000",
+              "name": "QQQ 260618 638.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 654.0,
+              "strike": 638.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -41583,36 +41583,61 @@
               "mid": 0.0
             },
             {
-              "code": "US.QQQ260618P655000",
-              "name": "QQQ 260618 655.00P",
+              "code": "US.QQQ260618P639000",
+              "name": "QQQ 260618 639.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 655.0,
+              "strike": 639.0,
               "expiry": "2026-06-18",
-              "last_price": 15.61,
-              "bid": 15.56,
-              "ask": 15.68,
-              "spread": 0.12,
-              "spread_pct": 0.77,
-              "volume": 526,
-              "open_interest": 3242,
-              "iv": 0.21278,
-              "delta": -0.397801286,
-              "gamma": 0.007376406,
-              "vega": 0.958203778,
-              "theta": -0.175893986,
-              "rho": -0.329129175,
+              "last_price": 0.0,
+              "bid": 0.0,
+              "ask": 0.0,
+              "spread": 0.0,
+              "spread_pct": 0.0,
+              "volume": 0,
+              "open_interest": 0,
+              "iv": 0.0,
+              "delta": 0.0,
+              "gamma": 0.0,
+              "vega": 0.0,
+              "theta": 0.0,
+              "rho": 0.0,
+              "dte": 51,
+              "is_wide": false,
+              "is_thin_oi": true,
+              "mid": 0.0
+            },
+            {
+              "code": "US.QQQ260618P640000",
+              "name": "QQQ 260618 640.00P",
+              "underlying": "US.QQQ",
+              "option_type": "P",
+              "strike": 640.0,
+              "expiry": "2026-06-18",
+              "last_price": 11.32,
+              "bid": 11.32,
+              "ask": 11.39,
+              "spread": 0.07,
+              "spread_pct": 0.62,
+              "volume": 10774,
+              "open_interest": 24789,
+              "iv": 0.22795,
+              "delta": -0.301247782,
+              "gamma": 0.006177594,
+              "vega": 0.866169053,
+              "theta": -0.174696542,
+              "rho": -0.255471412,
               "dte": 51,
               "is_wide": false,
               "is_thin_oi": false,
-              "mid": 15.62
+              "mid": 11.355
             },
             {
-              "code": "US.QQQ260618P656000",
-              "name": "QQQ 260618 656.00P",
+              "code": "US.QQQ260618P641000",
+              "name": "QQQ 260618 641.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 656.0,
+              "strike": 641.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -41633,11 +41658,11 @@
               "mid": 0.0
             },
             {
-              "code": "US.QQQ260618P657000",
-              "name": "QQQ 260618 657.00P",
+              "code": "US.QQQ260618P642000",
+              "name": "QQQ 260618 642.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 657.0,
+              "strike": 642.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -41658,11 +41683,11 @@
               "mid": 0.0
             },
             {
-              "code": "US.QQQ260618P658000",
-              "name": "QQQ 260618 658.00P",
+              "code": "US.QQQ260618P643000",
+              "name": "QQQ 260618 643.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 658.0,
+              "strike": 643.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -41683,11 +41708,11 @@
               "mid": 0.0
             },
             {
-              "code": "US.QQQ260618P659000",
-              "name": "QQQ 260618 659.00P",
+              "code": "US.QQQ260618P644000",
+              "name": "QQQ 260618 644.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 659.0,
+              "strike": 644.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -41708,36 +41733,36 @@
               "mid": 0.0
             },
             {
-              "code": "US.QQQ260618P660000",
-              "name": "QQQ 260618 660.00P",
+              "code": "US.QQQ260618P645000",
+              "name": "QQQ 260618 645.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 660.0,
+              "strike": 645.0,
               "expiry": "2026-06-18",
-              "last_price": 17.35,
-              "bid": 17.21,
-              "ask": 17.45,
-              "spread": 0.24,
-              "spread_pct": 1.38,
-              "volume": 2214,
-              "open_interest": 3863,
-              "iv": 0.20746,
-              "delta": -0.434695248,
-              "gamma": 0.007746179,
-              "vega": 0.976969242,
-              "theta": -0.172892673,
-              "rho": -0.355145786,
+              "last_price": 12.6,
+              "bid": 12.57,
+              "ask": 12.67,
+              "spread": 0.1,
+              "spread_pct": 0.79,
+              "volume": 263,
+              "open_interest": 13519,
+              "iv": 0.22275,
+              "delta": -0.330987773,
+              "gamma": 0.006591069,
+              "vega": 0.901325629,
+              "theta": -0.176339212,
+              "rho": -0.278841258,
               "dte": 51,
               "is_wide": false,
               "is_thin_oi": false,
-              "mid": 17.33
+              "mid": 12.62
             },
             {
-              "code": "US.QQQ260618P661000",
-              "name": "QQQ 260618 661.00P",
+              "code": "US.QQQ260618P646000",
+              "name": "QQQ 260618 646.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 661.0,
+              "strike": 646.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -41758,11 +41783,11 @@
               "mid": 0.0
             },
             {
-              "code": "US.QQQ260618P662000",
-              "name": "QQQ 260618 662.00P",
+              "code": "US.QQQ260618P647000",
+              "name": "QQQ 260618 647.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 662.0,
+              "strike": 647.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -41783,286 +41808,11 @@
               "mid": 0.0
             },
             {
-              "code": "US.QQQ260618P663000",
-              "name": "QQQ 260618 663.00P",
+              "code": "US.QQQ260618P648000",
+              "name": "QQQ 260618 648.00P",
               "underlying": "US.QQQ",
               "option_type": "P",
-              "strike": 663.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P664000",
-              "name": "QQQ 260618 664.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 664.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P665000",
-              "name": "QQQ 260618 665.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 665.0,
-              "expiry": "2026-06-18",
-              "last_price": 19.33,
-              "bid": 19.18,
-              "ask": 19.42,
-              "spread": 0.24,
-              "spread_pct": 1.24,
-              "volume": 2858,
-              "open_interest": 1641,
-              "iv": 0.20296,
-              "delta": -0.473985296,
-              "gamma": 0.008046256,
-              "vega": 0.98733442,
-              "theta": -0.168787232,
-              "rho": -0.381445122,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": false,
-              "mid": 19.3
-            },
-            {
-              "code": "US.QQQ260618P666000",
-              "name": "QQQ 260618 666.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 666.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P667000",
-              "name": "QQQ 260618 667.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 667.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P668000",
-              "name": "QQQ 260618 668.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 668.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P669000",
-              "name": "QQQ 260618 669.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 669.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P670000",
-              "name": "QQQ 260618 670.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 670.0,
-              "expiry": "2026-06-18",
-              "last_price": 21.51,
-              "bid": 21.36,
-              "ask": 21.6,
-              "spread": 0.24,
-              "spread_pct": 1.12,
-              "volume": 182,
-              "open_interest": 758,
-              "iv": 0.1986,
-              "delta": -0.515219386,
-              "gamma": 0.008285856,
-              "vega": 0.987601578,
-              "theta": -0.162821712,
-              "rho": -0.406935677,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": false,
-              "mid": 21.48
-            },
-            {
-              "code": "US.QQQ260618P671000",
-              "name": "QQQ 260618 671.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 671.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P672000",
-              "name": "QQQ 260618 672.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 672.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P673000",
-              "name": "QQQ 260618 673.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 673.0,
-              "expiry": "2026-06-18",
-              "last_price": 0.0,
-              "bid": 0.0,
-              "ask": 0.0,
-              "spread": 0.0,
-              "spread_pct": 0.0,
-              "volume": 0,
-              "open_interest": 0,
-              "iv": 0.0,
-              "delta": 0.0,
-              "gamma": 0.0,
-              "vega": 0.0,
-              "theta": 0.0,
-              "rho": 0.0,
-              "dte": 51,
-              "is_wide": false,
-              "is_thin_oi": true,
-              "mid": 0.0
-            },
-            {
-              "code": "US.QQQ260618P674000",
-              "name": "QQQ 260618 674.00P",
-              "underlying": "US.QQQ",
-              "option_type": "P",
-              "strike": 674.0,
+              "strike": 648.0,
               "expiry": "2026-06-18",
               "last_price": 0.0,
               "bid": 0.0,
@@ -42091,7 +41841,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 664.23,
-          "fetch_time": "2026-04-28T18:27:22",
+          "fetch_time": "2026-04-28T18:37:10",
           "error": "",
           "calls": [
             {
@@ -43153,7 +42903,7 @@
     {
       "symbol": "SPY",
       "underlying_price": 715.17,
-      "asof_jst": "2026-04-28 18:27:27",
+      "asof_jst": "2026-04-28 18:37:14",
       "expiry_count": 2,
       "path": "oc/SPY.json",
       "error": "",
@@ -43165,7 +42915,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 715.17,
-          "fetch_time": "2026-04-28T18:27:27",
+          "fetch_time": "2026-04-28T18:37:14",
           "error": "",
           "calls": [
             {
@@ -44229,7 +43979,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 715.17,
-          "fetch_time": "2026-04-28T18:27:29",
+          "fetch_time": "2026-04-28T18:37:15",
           "error": "",
           "calls": [
             {
@@ -45291,7 +45041,7 @@
     {
       "symbol": "STM",
       "underlying_price": 50.56,
-      "asof_jst": "2026-04-28 18:27:33",
+      "asof_jst": "2026-04-28 18:37:18",
       "expiry_count": 2,
       "path": "oc/STM.json",
       "error": "",
@@ -45303,7 +45053,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 50.56,
-          "fetch_time": "2026-04-28T18:27:33",
+          "fetch_time": "2026-04-28T18:37:18",
           "error": "",
           "calls": [
             {
@@ -45967,7 +45717,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 50.56,
-          "fetch_time": "2026-04-28T18:27:35",
+          "fetch_time": "2026-04-28T18:37:19",
           "error": "",
           "calls": [
             {
@@ -46629,7 +46379,7 @@
     {
       "symbol": "TXN",
       "underlying_price": 269.5,
-      "asof_jst": "2026-04-28 18:27:40",
+      "asof_jst": "2026-04-28 18:37:22",
       "expiry_count": 2,
       "path": "oc/TXN.json",
       "error": "",
@@ -46641,7 +46391,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 269.5,
-          "fetch_time": "2026-04-28T18:27:40",
+          "fetch_time": "2026-04-28T18:37:22",
           "error": "",
           "calls": [
             {
@@ -47505,7 +47255,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 269.5,
-          "fetch_time": "2026-04-28T18:27:42",
+          "fetch_time": "2026-04-28T18:37:22",
           "error": "",
           "calls": [
             {
@@ -48167,7 +47917,7 @@
     {
       "symbol": "UAL",
       "underlying_price": 91.9,
-      "asof_jst": "2026-04-28 18:27:46",
+      "asof_jst": "2026-04-28 18:37:26",
       "expiry_count": 2,
       "path": "oc/UAL.json",
       "error": "",
@@ -48179,7 +47929,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 91.9,
-          "fetch_time": "2026-04-28T18:27:46",
+          "fetch_time": "2026-04-28T18:37:26",
           "error": "",
           "calls": [
             {
@@ -48943,7 +48693,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 0.0,
-          "fetch_time": "2026-04-28T18:27:51",
+          "fetch_time": "2026-04-28T18:37:26",
           "error": "チェーン取得失敗: US.UAL 2026-07-17",
           "calls": [],
           "puts": []
@@ -48953,7 +48703,7 @@
     {
       "symbol": "UNH",
       "underlying_price": 354.69,
-      "asof_jst": "2026-04-28 18:27:55",
+      "asof_jst": "2026-04-28 18:38:38",
       "expiry_count": 2,
       "path": "oc/UNH.json",
       "error": "",
@@ -48965,7 +48715,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 354.69,
-          "fetch_time": "2026-04-28T18:27:55",
+          "fetch_time": "2026-04-28T18:38:38",
           "error": "",
           "calls": [
             {
@@ -49879,7 +49629,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 354.69,
-          "fetch_time": "2026-04-28T18:27:59",
+          "fetch_time": "2026-04-28T18:38:39",
           "error": "",
           "calls": [
             {
@@ -50791,7 +50541,7 @@
     {
       "symbol": "ZTS",
       "underlying_price": 117.87,
-      "asof_jst": "2026-04-28 18:28:04",
+      "asof_jst": "2026-04-28 18:38:42",
       "expiry_count": 2,
       "path": "oc/ZTS.json",
       "error": "",
@@ -50803,7 +50553,7 @@
           "dte": 51,
           "is_monthly": true,
           "underlying_price": 117.87,
-          "fetch_time": "2026-04-28T18:28:04",
+          "fetch_time": "2026-04-28T18:38:42",
           "error": "",
           "calls": [
             {
@@ -51417,7 +51167,7 @@
           "dte": 80,
           "is_monthly": true,
           "underlying_price": 117.87,
-          "fetch_time": "2026-04-28T18:28:06",
+          "fetch_time": "2026-04-28T18:38:43",
           "error": "",
           "calls": [
             {
