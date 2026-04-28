@@ -1,7 +1,7 @@
 {
   "symbol": "INTC",
   "underlying": "US.INTC",
-  "asof_jst": "2026-04-29 05:21:06",
+  "asof_jst": "2026-04-29 05:26:06",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -12,8 +12,8 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 84.55,
-  "underlying_change_pct": -0.52,
+  "underlying_price": 84.52,
+  "underlying_change_pct": -0.55,
   "error": "",
   "expiries": [
     {
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 50,
       "is_monthly": true,
-      "underlying_price": 84.55,
-      "fetch_time": "2026-04-29T05:21:06",
+      "underlying_price": 84.52,
+      "fetch_time": "2026-04-29T05:26:06",
       "error": "",
       "calls": [
         {
@@ -586,8 +586,8 @@
       "expiry": "2026-07-17",
       "dte": 79,
       "is_monthly": true,
-      "underlying_price": 84.55,
-      "fetch_time": "2026-04-29T05:21:06",
+      "underlying_price": 84.52,
+      "fetch_time": "2026-04-29T05:26:06",
       "error": "",
       "calls": [
         {
