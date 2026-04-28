@@ -1,7 +1,7 @@
 {
   "symbol": "UAL",
   "underlying": "US.UAL",
-  "asof_jst": "2026-04-29 05:03:02",
+  "asof_jst": "2026-04-29 05:08:05",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -23,7 +23,7 @@
       "dte": 50,
       "is_monthly": true,
       "underlying_price": 90.41,
-      "fetch_time": "2026-04-29T05:03:02",
+      "fetch_time": "2026-04-29T05:08:05",
       "error": "",
       "calls": [
         {
@@ -787,7 +787,7 @@
       "dte": 79,
       "is_monthly": true,
       "underlying_price": 0.0,
-      "fetch_time": "2026-04-29T05:03:03",
+      "fetch_time": "2026-04-29T05:08:05",
       "error": "チェーン取得失敗: US.UAL 2026-07-17",
       "calls": [],
       "puts": []
