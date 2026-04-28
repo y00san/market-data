@@ -1,7 +1,7 @@
 {
   "symbol": "KDP",
   "underlying": "US.KDP",
-  "asof_jst": "2026-04-29 05:01:13",
+  "asof_jst": "2026-04-29 05:06:13",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -12,8 +12,8 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 28.79,
-  "underlying_change_pct": 2.27,
+  "underlying_price": 28.82,
+  "underlying_change_pct": 2.38,
   "error": "",
   "expiries": [
     {
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 50,
       "is_monthly": true,
-      "underlying_price": 28.79,
-      "fetch_time": "2026-04-29T05:01:13",
+      "underlying_price": 28.82,
+      "fetch_time": "2026-04-29T05:06:13",
       "error": "",
       "calls": [
         {
@@ -375,6 +375,31 @@
           "is_wide": false,
           "is_thin_oi": false,
           "mid": 0.1151
+        },
+        {
+          "code": "US.KDP260618C36000",
+          "name": "KDP 260618 36.00C",
+          "underlying": "US.KDP",
+          "option_type": "C",
+          "strike": 36.0,
+          "expiry": "2026-06-18",
+          "last_price": 0.1098,
+          "bid": 0.0,
+          "ask": 2.15,
+          "spread": 0.0,
+          "spread_pct": 0.0,
+          "volume": 0,
+          "open_interest": 70,
+          "iv": 0.36973,
+          "delta": 0.066321897,
+          "gamma": 0.032333572,
+          "vega": 0.013871933,
+          "theta": -0.005166072,
+          "rho": 0.002517388,
+          "dte": 51,
+          "is_wide": false,
+          "is_thin_oi": true,
+          "mid": 0.1098
         }
       ],
       "puts": [
@@ -727,6 +752,31 @@
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 6.1
+        },
+        {
+          "code": "US.KDP260618P36000",
+          "name": "KDP 260618 36.00P",
+          "underlying": "US.KDP",
+          "option_type": "P",
+          "strike": 36.0,
+          "expiry": "2026-06-18",
+          "last_price": 7.878,
+          "bid": 5.1,
+          "ask": 9.1,
+          "spread": 4.0,
+          "spread_pct": 56.34,
+          "volume": 0,
+          "open_interest": 0,
+          "iv": 0.0,
+          "delta": 0.0,
+          "gamma": 0.0,
+          "vega": 0.0,
+          "theta": 0.0,
+          "rho": 0.0,
+          "dte": 51,
+          "is_wide": true,
+          "is_thin_oi": true,
+          "mid": 7.1
         }
       ]
     },
@@ -736,8 +786,8 @@
       "expiry": "2026-07-17",
       "dte": 79,
       "is_monthly": true,
-      "underlying_price": 28.79,
-      "fetch_time": "2026-04-29T05:01:27",
+      "underlying_price": 28.82,
+      "fetch_time": "2026-04-29T05:06:29",
       "error": "",
       "calls": [
         {
@@ -1089,6 +1139,31 @@
           "is_wide": false,
           "is_thin_oi": true,
           "mid": 0.0533
+        },
+        {
+          "code": "US.KDP260717C36000",
+          "name": "KDP 260717 36.00C",
+          "underlying": "US.KDP",
+          "option_type": "C",
+          "strike": 36.0,
+          "expiry": "2026-07-17",
+          "last_price": 0.029,
+          "bid": 0.0,
+          "ask": 2.2,
+          "spread": 0.0,
+          "spread_pct": 0.0,
+          "volume": 0,
+          "open_interest": 3,
+          "iv": 0.22885,
+          "delta": 0.025683608,
+          "gamma": 0.01935987,
+          "vega": 0.008076186,
+          "theta": -0.001211386,
+          "rho": 0.001559262,
+          "dte": 80,
+          "is_wide": false,
+          "is_thin_oi": true,
+          "mid": 0.029
         }
       ],
       "puts": [
@@ -1441,6 +1516,31 @@
           "is_wide": true,
           "is_thin_oi": true,
           "mid": 6.25
+        },
+        {
+          "code": "US.KDP260717P36000",
+          "name": "KDP 260717 36.00P",
+          "underlying": "US.KDP",
+          "option_type": "P",
+          "strike": 36.0,
+          "expiry": "2026-07-17",
+          "last_price": 7.85,
+          "bid": 5.1,
+          "ask": 9.2,
+          "spread": 4.1,
+          "spread_pct": 57.34,
+          "volume": 0,
+          "open_interest": 0,
+          "iv": 0.0,
+          "delta": 0.0,
+          "gamma": 0.0,
+          "vega": 0.0,
+          "theta": 0.0,
+          "rho": 0.0,
+          "dte": 80,
+          "is_wide": true,
+          "is_thin_oi": true,
+          "mid": 7.15
         }
       ]
     }
