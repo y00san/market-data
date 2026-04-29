@@ -1,7 +1,7 @@
 {
   "symbol": "STM",
   "underlying": "US.STM",
-  "asof_jst": "2026-04-30 05:01:17",
+  "asof_jst": "2026-04-30 05:10:23",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -13,7 +13,7 @@
     "strikes_each_side": 10
   },
   "underlying_price": 52.67,
-  "underlying_change_pct": 5.75,
+  "underlying_change_pct": 5.74,
   "error": "",
   "expiries": [
     {
@@ -23,7 +23,7 @@
       "dte": 49,
       "is_monthly": true,
       "underlying_price": 52.67,
-      "fetch_time": "2026-04-30T05:01:17",
+      "fetch_time": "2026-04-30T05:10:23",
       "error": "",
       "calls": [
         {
@@ -687,7 +687,7 @@
       "dte": 78,
       "is_monthly": true,
       "underlying_price": 52.67,
-      "fetch_time": "2026-04-30T05:01:18",
+      "fetch_time": "2026-04-30T05:10:24",
       "error": "",
       "calls": [
         {
