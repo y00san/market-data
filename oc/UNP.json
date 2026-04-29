@@ -1,7 +1,7 @@
 {
   "symbol": "UNP",
   "underlying": "US.UNP",
-  "asof_jst": "2026-04-30 05:02:02",
+  "asof_jst": "2026-04-30 05:10:53",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -12,8 +12,8 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 264.96,
-  "underlying_change_pct": -1.04,
+  "underlying_price": 264.78,
+  "underlying_change_pct": -1.11,
   "error": "",
   "expiries": [
     {
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 49,
       "is_monthly": true,
-      "underlying_price": 264.96,
-      "fetch_time": "2026-04-30T05:02:02",
+      "underlying_price": 264.78,
+      "fetch_time": "2026-04-30T05:10:53",
       "error": "",
       "calls": [
         {
@@ -1086,8 +1086,8 @@
       "expiry": "2026-07-17",
       "dte": 78,
       "is_monthly": true,
-      "underlying_price": 264.96,
-      "fetch_time": "2026-04-30T05:02:03",
+      "underlying_price": 264.78,
+      "fetch_time": "2026-04-30T05:10:54",
       "error": "",
       "calls": [
         {
