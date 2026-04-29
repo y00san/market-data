@@ -1,7 +1,7 @@
 {
   "symbol": "PM",
   "underlying": "US.PM",
-  "asof_jst": "2026-04-30 04:59:57",
+  "asof_jst": "2026-04-30 05:09:50",
   "source": {
     "chain": "moomoo OpenD",
     "underlying": "moomoo_opend"
@@ -12,8 +12,8 @@
     "monthly_only": true,
     "strikes_each_side": 10
   },
-  "underlying_price": 162.76,
-  "underlying_change_pct": -1.89,
+  "underlying_price": 162.71,
+  "underlying_change_pct": -1.92,
   "error": "",
   "expiries": [
     {
@@ -22,8 +22,8 @@
       "expiry": "2026-06-18",
       "dte": 49,
       "is_monthly": true,
-      "underlying_price": 162.76,
-      "fetch_time": "2026-04-30T04:59:57",
+      "underlying_price": 162.71,
+      "fetch_time": "2026-04-30T05:09:50",
       "error": "",
       "calls": [
         {
@@ -836,8 +836,8 @@
       "expiry": "2026-07-17",
       "dte": 78,
       "is_monthly": true,
-      "underlying_price": 162.76,
-      "fetch_time": "2026-04-30T05:00:29",
+      "underlying_price": 162.71,
+      "fetch_time": "2026-04-30T05:09:51",
       "error": "",
       "calls": [
         {
