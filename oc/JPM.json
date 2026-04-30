@@ -1,0 +1,44 @@
+{
+  "symbol": "JPM",
+  "underlying": "US.JPM",
+  "asof_jst": "2026-05-01 03:24:12",
+  "source": {
+    "chain": "moomoo OpenD",
+    "underlying": "moomoo_opend"
+  },
+  "filters": {
+    "min_dte": 30,
+    "max_dte": 90,
+    "monthly_only": true,
+    "strikes_each_side": 10
+  },
+  "underlying_price": 313.37,
+  "underlying_change_pct": 1.33,
+  "error": "",
+  "expiries": [
+    {
+      "symbol": "JPM",
+      "underlying": "US.JPM",
+      "expiry": "2026-06-18",
+      "dte": 48,
+      "is_monthly": true,
+      "underlying_price": 0.0,
+      "fetch_time": "2026-05-01T03:24:12",
+      "error": "チェーン取得失敗: PacketErr.Timeout",
+      "calls": [],
+      "puts": []
+    },
+    {
+      "symbol": "JPM",
+      "underlying": "US.JPM",
+      "expiry": "2026-07-17",
+      "dte": 77,
+      "is_monthly": true,
+      "underlying_price": 0.0,
+      "fetch_time": "2026-05-01T03:24:25",
+      "error": "チェーン取得失敗: PacketErr.Timeout",
+      "calls": [],
+      "puts": []
+    }
+  ]
+}
