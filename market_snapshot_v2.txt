@@ -1,10 +1,10 @@
 === 最新 ===
 Timestamp JST | SPY | QQQ | GLD | AMZN | GOOGL | VIX | VIX_prev_close | VIX_1dchg | VIX_5dchg | OVX | OVX_5dchg | GVZ | GVZ_5dchg | SKEW | HYG | HYG_5dchg | Brent | Brent_5dchg | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | SPY_MA50 | SPY_MA50_5d_ago | SPY_gap_to_MA50 | SPY_ret_5d | QQQ_MA50 | QQQ_MA50_5d_ago | QQQ_gap_to_MA50 | QQQ_ret_5d | GLD_20d_low | bounce | GLD_ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
-2026-05-01 03:05 | 716.71 | 665.94 | 423.72 | 259.95 | 383.32 | 17.29 | 18.81 | -1.52 | -2.02 | 74.63 | -4.04 | 26.81 | -1.06 | 141.88 | 80.33 | -0.04 | 109.02 | +3.98 | 103.82 | 98.15 | 159.55 | 1.92% | 6.85 | 7.49 | 679.47 | 676.55 | +5.48% | +1.29% | 611.24 | 605.40 | +8.95% | +2.44% | 414.16 | +2.31% | -1.57% | +3bp | 1.91% | 1.94%
+2026-05-01 03:19 | 717.65 | 667.32 | 424.21 | 261.06 | 385.11 | 17.26 | 18.81 | -1.55 | -2.05 | 74.48 | -4.19 | 26.80 | -1.07 | 141.88 | 80.33 | -0.05 | 109.20 | +4.14 | 103.79 | 98.14 | 159.55 | 1.92% | 6.87 | 7.49 | 679.48 | 676.55 | +5.62% | +1.33% | 611.24 | 605.40 | +9.17% | +2.44% | 414.16 | +2.43% | -1.53% | +3bp | 1.91% | 1.94%
 
 === 履歴 ===
 Timestamp JST | SPY | QQQ | GLD | AMZN | GOOGL | VIX | VIX_prev_close | VIX_1dchg | VIX_5dchg | OVX | OVX_5dchg | GVZ | GVZ_5dchg | SKEW | HYG | HYG_5dchg | Brent | Brent_5dchg | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | SPY_MA50 | SPY_MA50_5d_ago | SPY_gap_to_MA50 | SPY_ret_5d | QQQ_MA50 | QQQ_MA50_5d_ago | QQQ_gap_to_MA50 | QQQ_ret_5d | GLD_20d_low | bounce | GLD_ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
-(empty)
+2026-05-01 03:05 | 716.71 | 665.94 | 423.72 | 259.95 | 383.32 | 17.29 | 18.81 | -1.52 | -2.02 | 74.63 | -4.04 | 26.81 | -1.06 | 141.88 | 80.33 | -0.04 | 109.02 | +3.98 | 103.82 | 98.15 | 159.55 | 1.92% | 6.85 | 7.49 | 679.47 | 676.55 | +5.48% | +1.29% | 611.24 | 605.40 | +8.95% | +2.44% | 414.16 | +2.31% | -1.57% | +3bp | 1.91% | 1.94%
 
 === 履歴（日） ===
 Timestamp JST | SPY | QQQ | GLD | AMZN | GOOGL | VIX | VIX_prev_close | VIX_1dchg | VIX_5dchg | OVX | OVX_5dchg | GVZ | GVZ_5dchg | SKEW | HYG | HYG_5dchg | Brent | Brent_5dchg | WTI | DXY | USDJPY | DFII10 | SPY_ATR14 | GLD_ATR14 | SPY_MA50 | SPY_MA50_5d_ago | SPY_gap_to_MA50 | SPY_ret_5d | QQQ_MA50 | QQQ_MA50_5d_ago | QQQ_gap_to_MA50 | QQQ_ret_5d | GLD_20d_low | bounce | GLD_ret_5d | DFII10_10dchg | DFII10_10DMA | DFII10_20DMA
